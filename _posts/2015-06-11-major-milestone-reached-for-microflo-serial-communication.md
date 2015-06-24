@@ -1,4 +1,19 @@
 ---
+isBasedOnUrl: 'https://twitter.com/jononor/status/485778530719252480'
+inLanguage: en
+starred: false
+keywords:
+  - location
+  - twitter
+  - tweet
+  - microflo
+  - flowhub_io
+  - chome
+  - jxx1n77meg
+  - copying
+  - hiccup
+  - momentary
+description: 'Major milestone reached for #MicroFlo: Serial communication integrated directly into @Flowhub_io Chome app.'
 author:
   - name: jononor
     url: 'http://twitter.com/jononor'
@@ -14,31 +29,19 @@ author:
           - 31
           - 31
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - location
-  - twitter
-  - tweet
-  - microflo
-  - flowhub_io
-  - chome
-  - jxx1n77meg
-  - copying
-  - hiccup
-  - momentary
-description: 'Major milestone reached for #MicroFlo: Serial communication integrated directly into @Flowhub_io Chome app.'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/jononor/status/485778530719252480'
 datePublished: '2015-06-11T05:33:16.542Z'
-dateModified: '2015-06-11T05:33:16.542Z'
+dateModified: '2015-06-24T07:24:03.410Z'
 sourcePath: _posts/2015-06-11-major-milestone-reached-for-microflo-serial-communication.md
 published: true
-_type: Photograph
+title: USB device support in Flowhub
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
+_type: MediaObject
 _context: 'http://schema.org'
 
 ---
