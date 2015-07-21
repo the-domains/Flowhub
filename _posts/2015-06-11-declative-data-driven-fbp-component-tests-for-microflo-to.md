@@ -35,7 +35,7 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/jononor/status/587565844768624640'
 datePublished: '2015-06-11T07:26:57.620Z'
-dateModified: '2015-06-11T07:26:57.620Z'
+dateModified: '2015-07-21T14:18:03.099Z'
 sourcePath: _posts/2015-06-11-declative-data-driven-fbp-component-tests-for-microflo-to.md
 published: true
 _type: Photograph
