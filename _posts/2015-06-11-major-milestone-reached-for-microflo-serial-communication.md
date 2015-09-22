@@ -30,7 +30,7 @@ author:
           - 31
 related: []
 app_links: []
-datePublished: '2015-06-11T05:33:16.542Z'
+datePublished: '2015-09-22T13:28:25.632Z'
 dateModified: '2015-06-24T07:24:03.410Z'
 sourcePath: _posts/2015-06-11-major-milestone-reached-for-microflo-serial-communication.md
 published: true
