@@ -4,8 +4,15 @@
         <description><![CDATA[Flowhub]]></description>
         <link>https://thegrid.ai/flowhub/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 15:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 15:19:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/flowhub/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PIKSEL 2013: MicroFlo, visual programming for microcontrollers (Arduino)]]></title>
+            <description><![CDATA[<article><h1>PIKSEL 2013: MicroFlo, visual programming for microcontrollers (Arduino)</h1><p>Presented at the Piksel festival in Bergen, http://13.piksel.no/ Video cut out from http://bambuser.com/v/4122524#t=13507s, recorded by Pixelache Helsinki http://www.pixelache.ac/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c74fc1b253020ae143a8075ca7b11df01122929.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=mizj6eoepC0</link>
+            <guid isPermaLink="false">ad01b431-638a-4ca8-9920-fc8cba7f1452</guid>
+            <pubDate>Mon, 28 Dec 2015 15:18:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flowhub live mode open from NFC tag]]></title>
             <description><![CDATA[<article><h1>Flowhub live mode open from NFC tag</h1><p>This feature is out with Flowhub 0.2.0+. We've now released the Kickstarter plans: https://www.kickstarter.com/projects/noflo/noflo-development-environment/posts/985898 Note that the Android tablet does not have any special software installed!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8ed01da3605030d185ac17509068215fb6c18a3.jpg"></article>]]></description>
