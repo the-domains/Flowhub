@@ -1,6 +1,6 @@
 name: Flowhub
 favicon: null
-layout_spectrum: 0.83848
+layout_spectrum: 0.62295
 typography_spectrum: 0.6951
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#0bb8da'
     - '#ffffff'
     - '#626d6f'
-  brandStrength: 0.8125
+  brandStrength: 0.875
   lightness: 0.1875
   saturation: 0.5625
   rhythmicContrast: 0.75
