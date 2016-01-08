@@ -1,19 +1,4 @@
-name: Flowhub
-favicon: null
-layout_spectrum: 0.62295
-typography_spectrum: 0.6951
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#091416'
@@ -21,8 +6,13 @@ color:
     - '#0bb8da'
     - '#ffffff'
     - '#626d6f'
-  brandStrength: 0.5
+  brandStrength: 0.351351
   lightness: 0.1875
-  saturation: 0.5625
   rhythmicContrast: 0.75
+  saturation: 0.5625
+cta: {}
+layout_spectrum: 0.62295
+name: Flowhub
+opengraph: {}
 purpose: []
+typography_spectrum: 0.6951
