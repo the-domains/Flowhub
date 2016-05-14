@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#F6F792'
-    - '#333745'
-    - '#77C4D3'
-    - '#DAEDE2'
-    - '#EA2E49'
-  brandStrength: 0.07572053256444633
-  lightness: 0.38682258129119873
-  rhythmicContrast: 0.9818858506623656
-  saturation: 0.21059768018312752
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.8091102663893253
+  lightness: 0.16174883302301168
+  rhythmicContrast: 0.7785116084851325
+  saturation: 0.4518469150643796
 cta: {}
-layout_spectrum: 0.35797369782812893
+layout_spectrum: 0.8454538772348315
 name: Flowhub
 opengraph: {}
 purpose: []
-typography_spectrum: 0.4490784811787307
+typography_spectrum: 0.5002055359072983
