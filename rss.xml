@@ -4,11 +4,25 @@
         <description><![CDATA[Flowhub]]></description>
         <link>https://thegrid.ai/flowhub/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 20:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 11:38:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/flowhub/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Initial #rustlang support for msgflo, a super easy way to expose code on #AMQP #rabbitmq https://github.com/msgflo/msgflo-rust ...pic.twitter.com/k7pxggKfKn" src="https://pbs.twimg.com/media/CbyNQT6XIAAjkO8.jpg:large">]]></description>
+            <link>https://twitter.com/jononor/status/701590954210410497</link>
+            <guid isPermaLink="false">83058fa1-f508-4ba4-a600-bda2d561418e</guid>
+            <pubDate>Tue, 07 Jun 2016 11:38:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/138b39d9-2cb1-4ccc-8339-037ad1faa092.png">]]></description>
+            <link>https://thegrid.ai/flowhub/5cdb9f8e-5d15-4ee0-9915-190d54f038cc/index.html</link>
+            <guid isPermaLink="false">5cdb9f8e-5d15-4ee0-9915-190d54f038cc</guid>
+            <pubDate>Wed, 17 Feb 2016 20:43:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[PIKSEL 2013: MicroFlo, visual programming for microcontrollers (Arduino)]]></title>
-            <description><![CDATA[<article><h1>PIKSEL 2013: MicroFlo, visual programming for microcontrollers (Arduino)</h1><p>Presented at the Piksel festival in Bergen, http://13.piksel.no/ Video cut out from http://bambuser.com/v/4122524#t=13507s, recorded by Pixelache Helsinki http://www.pixelache.ac/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c74fc1b253020ae143a8075ca7b11df01122929.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>PIKSEL 2013: MicroFlo, visual programming for microcontrollers (Arduino)</h1><p>Presented at the Piksel festival in Bergen, http://13.piksel.no/ Video cut out from http://bambuser.com/v/4122524#t=13507s, recorded by Pixelache Helsinki http://www.pixelache.ac/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69595086e565b976a37743a9452e5ff8ab48180e.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=mizj6eoepC0</link>
             <guid isPermaLink="false">ad01b431-638a-4ca8-9920-fc8cba7f1452</guid>
             <pubDate>Mon, 28 Dec 2015 15:18:14 GMT</pubDate>
@@ -22,21 +36,14 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/138b39d9-2cb1-4ccc-8339-037ad1faa092.png">]]></description>
-            <link>https://thegrid.ai/flowhub/5cdb9f8e-5d15-4ee0-9915-190d54f038cc/index.html</link>
-            <guid isPermaLink="false">5cdb9f8e-5d15-4ee0-9915-190d54f038cc</guid>
-            <pubDate>Wed, 17 Feb 2016 20:43:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Great video of the origins of @NoFlo, interview with its creator @bergie ! https://youtu.be/YJHT2vARAOQ</p>]]></description>
+            <description><![CDATA[<p>Great video of the origins of @NoFlo, interview with its creator @bergie !</p>]]></description>
             <link>https://twitter.com/HantsonAlex/status/646953053715853312</link>
             <guid isPermaLink="false">67e66606-569f-438d-bd9d-bb36a92bd21c</guid>
             <pubDate>Fri, 25 Sep 2015 11:51:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[USB device support in Flowhub]]></title>
-            <description><![CDATA[<article><h1>USB device support in Flowhub</h1><p>Major milestone reached for #MicroFlo: Serial communication integrated directly into @Flowhub_io Chome app.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9489be5cfe4b30d30140a8e3312237778b0ab3f.png"></article>]]></description>
+            <description><![CDATA[<img alt="Major milestone reached for &num;MicroFlo&colon; Serial communication integrated directly into &commat;Flowhub&lowbar;io Chome app&period;" src="https://pbs.twimg.com/media/Br3U_1zIYAAMpUt.png:large">]]></description>
             <link>https://twitter.com/jononor/status/485778530719252480</link>
             <guid isPermaLink="false">3b7b22a4-732a-4a52-9b2d-c235ca37adb7</guid>
             <pubDate>Tue, 22 Sep 2015 13:28:25 GMT</pubDate>
