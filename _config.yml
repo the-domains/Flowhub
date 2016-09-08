@@ -27,6 +27,9 @@ navigation:
     url: >-
       https://chrome.google.com/webstore/detail/flowhub/aacpjichompfhafnciggfpfdpfododlk
     type: external
+  - name: NoFlo.js
+    url: 'https://noflojs.org'
+    type: external
 purpose:
   - type: external
     url: 'http://app.flowhub.io'
