@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.5002055359072983
 color:
   brandColors:
     - '#2C3E50'
@@ -10,10 +10,14 @@ color:
   lightness: 0.16174883302301168
   rhythmicContrast: 0.7785116084851325
   saturation: 0.4518469150643796
-cta: {}
-layout_spectrum: 0.8454538772348315
-name: Flowhub
-opengraph: {}
-purpose: []
-typography_spectrum: 0.5002055359072983
 github: true
+opengraph: {}
+layout_spectrum: 0.8454538772348315
+analytics: {}
+name: Flowhub
+cta: {}
+navigation:
+  - name: Flowhub IDE webapp
+    url: app.flowhub.io
+    type: external
+purpose: []
