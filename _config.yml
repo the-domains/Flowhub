@@ -17,9 +17,6 @@ analytics: {}
 name: Flowhub
 cta: {}
 navigation:
-  - name: NoFlo.JS
-    url: noflojs.org
-    type: external
   - name: MsgFlo
     url: 'https://msgflo.org'
     type: external
