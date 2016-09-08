@@ -20,4 +20,7 @@ navigation:
   - name: Flowhub IDE webapp
     url: app.flowhub.io
     type: external
-purpose: []
+purpose:
+  - type: external
+    url: 'http://app.flowhub.io'
+    label: Try Flowhub now
