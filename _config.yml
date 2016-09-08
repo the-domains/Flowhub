@@ -17,10 +17,6 @@ analytics: {}
 name: Flowhub
 cta: {}
 navigation:
-  - name: Flowhub Chrome app
-    url: >-
-      https://chrome.google.com/webstore/detail/flowhub/aacpjichompfhafnciggfpfdpfododlk
-    type: external
   - name: NoFlo.JS
     url: noflojs.org
     type: external
