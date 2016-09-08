@@ -30,6 +30,9 @@ navigation:
   - name: NoFlo.js
     url: 'https://noflojs.org'
     type: external
+  - name: Documentation
+    url: 'http://docs.flowhub.io/'
+    type: external
 purpose:
   - type: external
     url: 'http://app.flowhub.io'
