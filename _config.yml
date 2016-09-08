@@ -20,6 +20,10 @@ navigation:
   - name: Flowhub IDE webapp
     url: app.flowhub.io
     type: external
+  - name: Flowhub Chrome app
+    url: >-
+      https://chrome.google.com/webstore/detail/flowhub/aacpjichompfhafnciggfpfdpfododlk
+    type: external
 purpose:
   - type: external
     url: 'http://app.flowhub.io'
