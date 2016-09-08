@@ -27,6 +27,9 @@ navigation:
   - name: NoFlo.JS
     url: noflojs.org
     type: external
+  - name: MsgFlo
+    url: 'https://msgflo.org'
+    type: external
 purpose:
   - type: external
     url: 'http://app.flowhub.io'
