@@ -27,6 +27,9 @@ navigation:
   - name: MsgFlo
     url: 'https://msgflo.org'
     type: external
+  - name: Webapp
+    url: 'http://app.flowhub.io'
+    type: external
 purpose:
   - type: external
     url: 'http://app.flowhub.io'
