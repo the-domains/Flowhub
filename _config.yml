@@ -33,7 +33,9 @@ navigation:
   - name: Documentation
     url: 'http://docs.flowhub.io/'
     type: external
+title: Flowhub Blog
 content: []
+description: ''
 purpose:
   - type: external
     url: 'http://app.flowhub.io'
