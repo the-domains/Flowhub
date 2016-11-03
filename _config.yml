@@ -35,7 +35,7 @@ navigation:
     type: external
 title: Flowhub Blog
 content: []
-description: ''
+description: News about Flowhub & FBP programming
 purpose:
   - type: external
     url: 'http://app.flowhub.io'
