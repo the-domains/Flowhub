@@ -4,80 +4,78 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Dec 2016 23:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2016 23:24:20 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Dec 2016 23:04:10 GMT</pubDate>
+        <pubDate>Thu, 22 Dec 2016 23:24:19 GMT</pubDate>
         <item>
-            <title><![CDATA[Flowhub public beta: a better interface for Flow-Based Programming]]></title>
-            <description><![CDATA[<article><h1>Flowhub public beta: a better interface for Flow-Based Programming</h1><p>Today I'm happy to announce the public beta of the Flowhub interface for Flow-Based Programming. This is the latest step in the adventure that started with some UI sketching early last year, went through our successful Kickstarter — and now — thanks to our 1 205 backers, it is available to the public.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0aa47c0764ab492feadc0c319348e91f/noop.png?input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Fflowhub-main.png"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/flowhub-beta/</link>
-            <guid isPermaLink="false">2d16427b-2bb5-46f6-8d30-4a1fd884037e</guid>
-            <pubDate>Thu, 22 Dec 2016 23:04:09 GMT</pubDate>
+            <title><![CDATA[guv: Automatic scaling of Heroku workers]]></title>
+            <description><![CDATA[<article><h1>guv: Automatic scaling of Heroku workers</h1><p>At The Grid we do a lot of computationally heavy work server-side, in order to produce websites from user-provided content. This includes image analytics (for understanding the content), constraint solving (for page layout) and image processing (optimization and filtering to achieve a particular look).</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/272dd7163b9851d86cc4a2caedc3ec02/croprotate.png?cropheight=387&cropwidth=1022&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2f299e06-fe10-4164-a038-1d3b0e5b28a9.png&x=1&y=1"></article>]]></description>
+            <link>http://www.jonnor.com/2015/11/guv-automatic-scaling/</link>
+            <guid isPermaLink="false">5e4a10ee-3ba8-4bb5-933c-0602b5b3df08</guid>
+            <pubDate>Thu, 22 Dec 2016 23:24:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61d04da33ff1c9818cbdb401db23cb071a02b026.png" alt="testing +NoFlo on the Node.js and #Windows 8 combo. Such a complex OS compared to the simplicity of Linux! But now tests pass...">]]></description>
-            <link>https://plus.google.com/+HenriBergius/posts/VVXBqGk5jA2</link>
-            <guid isPermaLink="false">b192c3e9-fca0-4e00-8064-335f5643f67d</guid>
-            <pubDate>Thu, 22 Dec 2016 23:03:24 GMT</pubDate>
+            <title><![CDATA[Announcing MsgFlo, a distributed FBP runtime]]></title>
+            <description><![CDATA[<article><h1>Announcing MsgFlo, a distributed FBP runtime</h1><p>At The Grid we do a lot of CPU intensive work on the backend as part of producing web pages. This includes content extraction, normalization, image analytics, webpage auto-layout using constraint solvers, webpage optimization ( GSS to CSS compilation) and image processing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90807e94bb623e7ae916c3a35e3f4ff582a5e960.png"></article>]]></description>
+            <link>http://www.jonnor.com/2015/06/announcing-msgflo-a-distributed-fbp-runtime/</link>
+            <guid isPermaLink="false">57d5464c-8e68-4876-b707-db3ad7a05008</guid>
+            <pubDate>Thu, 22 Dec 2016 23:22:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[imgflo 0.1: An image processing server and Flowhub runtime]]></title>
-            <description><![CDATA[<article><h1>imgflo 0.1: An image processing server and Flowhub runtime</h1><p>At TheGrid we are in need for a flexible service for doing server-side image processing. So after some discussion at LGM in Leipzig, I started writing one based on GEGL, the image processing library that will power the upcoming GIMP 2.10 release.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d5b11ed7cf841758833b22b77444681dca1cdde.png"></article>]]></description>
-            <link>http://www.jonnor.com/2014/04/imgflo-0-1-an-image-processing-server-and-flowhub-runtime/</link>
-            <guid isPermaLink="false">925699ab-bfbf-4fe4-a308-b2a710b07ff6</guid>
-            <pubDate>Thu, 22 Dec 2016 23:02:56 GMT</pubDate>
+            <title><![CDATA[Turtle power to the people]]></title>
+            <description><![CDATA[<article><h1>Turtle power to the people</h1><p>During the first days we were preparing a workshop for MozFest’s #ArtOfWeb track. The idea was to present a quick introduction to Flowhub/NoFlo and how to use it to draw with Mirobot. Then we would let people create their own drawings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7f51c78211ad9aacb8e836a394e4a7fffd1a31a.png"></article>]]></description>
+            <link>http://meemoo.org/blog/2015-01-14-turtle-power-to-the-people</link>
+            <guid isPermaLink="false">9ef63598-2a59-428b-b05e-5117ca60ad12</guid>
+            <pubDate>Thu, 22 Dec 2016 23:22:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Flowhub]]></title>
-            <description><![CDATA[<article><h1>Flowhub</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5cdb5ecc15ff3d0581951f9201755e96/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F475921185_1280x720.jpg"></article>]]></description>
-            <link>https://vimeo.com/95895989</link>
-            <guid isPermaLink="false">c4d3f474-faa3-42b8-8d46-f9b768071ddd</guid>
-            <pubDate>Thu, 22 Dec 2016 23:02:48 GMT</pubDate>
+            <title><![CDATA[imgflo 0.3: GEGL metaoperations++]]></title>
+            <description><![CDATA[<article><h1>imgflo 0.3: GEGL metaoperations++</h1><p>Time for a new release of imgflo, the image processing server and dataflow runtime based on GEGL. This iteration has been mostly focused on ironing out various workflow issues, including documentation. Primarily so that the creatives in our team can be productive in developing new image filters/processing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4766dae4ada9549fb760e054e895080fb5b3fed.jpg"></article>]]></description>
+            <link>http://www.jonnor.com/2015/01/imgflo-0-3/</link>
+            <guid isPermaLink="false">34f27023-a442-4d4b-bba9-b5720bbc7bdd</guid>
+            <pubDate>Thu, 22 Dec 2016 23:22:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Interactive animations with NoFlo and Clutter]]></title>
-            <description><![CDATA[<article><h1>Interactive animations with NoFlo and Clutter</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/cf088de18817b507fae35bebf757a7d6/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F1IPpd8jVNjg%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/1IPpd8jVNjg</link>
-            <guid isPermaLink="false">e32de05f-6eca-4e7c-8502-48fe96659ec0</guid>
-            <pubDate>Thu, 22 Dec 2016 23:02:35 GMT</pubDate>
+            <title><![CDATA[Companies to Watch in 2015: NoFlo]]></title>
+            <description><![CDATA[<article><h1>Companies to Watch in 2015: NoFlo</h1><p>As technology platforms and paradigms shift, morph and ultimately change how we interact with our devices and workstations, gaps between old and new widen while innovative ideas have room to take root. To turn the light onto those emerging companies, SD Times is pleased to again present its Companies to Watch in 2015.</p></article>]]></description>
+            <link>http://sdtimes.com/companies-watch-2015/3/</link>
+            <guid isPermaLink="false">d6e0b02c-4dae-4183-8dcc-41825a971756</guid>
+            <pubDate>Thu, 22 Dec 2016 23:18:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Building an Ingress Table with Flowhub]]></title>
-            <description><![CDATA[<article><h1>Building an Ingress Table with Flowhub</h1><p>The c-base space station - a culture carbonite and a hackerspace - is the focal point of Berlin's thriving tech scene. It is also the place where many of the city's Ingress agents converge after an evening of hectic raiding or farming.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/412ff72f-cb2a-4420-afc6-3abf3be3dbae.jpg"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/ingress-table/</link>
-            <guid isPermaLink="false">a4783b9a-ff20-4870-8101-f932b288526a</guid>
-            <pubDate>Thu, 22 Dec 2016 23:02:00 GMT</pubDate>
+            <title><![CDATA[sndflo 0.1: Visual sound programming in SuperCollider]]></title>
+            <description><![CDATA[<article><h1>sndflo 0.1: Visual sound programming in SuperCollider</h1><p>SuperCollider is an open source project for real-time audio synthesis and algorithmic composition. It is split into two parts; an interpreter (sclang) implementing the SuperCollider language and the audio synthesis server (scsynth). The server has an directed acyclic graph of nodes which it executes to produce the audio output ( paper| book on internals).</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a55e8b4b8eae306786c45ac36a58beea/croprotate.jpg?cropheight=280&cropwidth=480&degrees=0&input=http%3A%2F%2Fi3.ytimg.com%2Fvi%2F5Rx_WBJD2Mw%2Fhqdefault.jpg&x=0&y=40"></article>]]></description>
+            <link>http://www.jonnor.com/2014/12/sndflo-0-1-visual-supercollider-sound-programming/</link>
+            <guid isPermaLink="false">c661f228-1455-41c3-9b6e-89047674df81</guid>
+            <pubDate>Thu, 22 Dec 2016 23:18:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b8a74abfcbc2a50aa037af43805a7b40f2694b4.png" alt="experimenting with finite domain constraint solving with +NoFlo and https://github.com/srikumarks/FD.js Here we&apos;re saying that X can be either 5-10 or...">]]></description>
-            <link>https://plus.google.com/+HenriBergius/posts/CLEEkhBQbPt</link>
-            <guid isPermaLink="false">30765195-7404-4dda-97b8-2785528a8a08</guid>
-            <pubDate>Thu, 22 Dec 2016 23:00:47 GMT</pubDate>
+            <title><![CDATA[Artificial intelligence designs websites, uses open technology stack]]></title>
+            <description><![CDATA[<article><h1>Artificial intelligence designs websites, uses open technology stack</h1><p>It's been years since AI was supposed to take over dirty bits of work and let humanity get on with creating amazing art, exploring the universe and generally enjoying life. The Grid, a San Francisco based company, recently made a contribution to the matter.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/478361534445789ee824366bb900df531ae3d067.jpg"></article>]]></description>
+            <link>http://libregraphicsworld.org/blog/entry/artificial-intelligence-designs-websites-uses-open-technology-stack</link>
+            <guid isPermaLink="false">9bda3fa4-1549-4da8-8fd6-7c6536ee267b</guid>
+            <pubDate>Thu, 22 Dec 2016 23:18:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Flowhub]]></title>
-            <description><![CDATA[<article><h1>Flowhub</h1><p>Peer-to-peer full-stack visual programming for your fingers. Funded by Kickstarter, from the NoFlo team. www.flowhub.io</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fbb04a936a5f46b9f8c94262fb9f7021/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F459722138_1280x720.jpg"></article>]]></description>
-            <link>https://vimeo.com/81458709</link>
-            <guid isPermaLink="false">0a96e057-0bda-48c9-99c1-002991391f82</guid>
-            <pubDate>Thu, 22 Dec 2016 22:58:20 GMT</pubDate>
+            <title><![CDATA[Jon Nordby - Death to Black Boxes (2014 OHS)]]></title>
+            <description><![CDATA[<article><h1>Jon Nordby - Death to Black Boxes (2014 OHS)</h1><p>Death to Black Boxes by Jon Nordby Session: Democratizing Knowledge 2014 Open Hardware Summit https://twitter.com/ohsummit http://www.2014.oshwa.org/ http://www.oshwa.org/</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3bcdfcd613a41a645a53fef64e18012b/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F494826799_1920x1080.jpg"></article>]]></description>
+            <link>https://vimeo.com/110527483</link>
+            <guid isPermaLink="false">40193a60-9f20-40d7-b1ec-df84a5171f26</guid>
+            <pubDate>Thu, 22 Dec 2016 23:18:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Full-Stack Flow-Based Programming]]></title>
-            <description><![CDATA[<article><h1>Full-Stack Flow-Based Programming</h1><p>The idea of Full-Stack Development is quite popular at the moment — building things that run both the browser and the server side of web development, usually utilizing similar languages and frameworks.
-
-With Flow-Based Programming and the emerging Flowhub ecosystem, we can take this even further. Thanks to the FBP network protocol we can build and monitor graphs spanning multiple devices and flow-based environments.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c062b4ebd46c196e0dcfbbdb3c0ab5f3/noop.jpg?input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Ffullstack-meetup.jpg"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/full-stack-fbp/</link>
-            <guid isPermaLink="false">2b0830b9-96d0-4739-8135-76705c0df4a8</guid>
-            <pubDate>Thu, 22 Dec 2016 22:58:16 GMT</pubDate>
+            <title><![CDATA[imgflo 0.2, The Grid launched]]></title>
+            <description><![CDATA[<article><h1>imgflo 0.2, The Grid launched</h1><p>When I announced the first release of the imgflo project in April, it was perhaps difficult to see what exactly it was useful for and why we are developing it. This has changed now as 3 weeks ago we launched The Grid, our AI-based web publishing platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51d2902f1a7df38dd1918de708e5613c31cb6e71.png"></article>]]></description>
+            <link>http://www.jonnor.com/2014/11/imgflo-0-2-the-grid-launched/</link>
+            <guid isPermaLink="false">bfe23de2-5aa2-4a8d-9048-28f21dfda5fb</guid>
+            <pubDate>Thu, 22 Dec 2016 23:18:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MicroFlo 0.2.0, visual Arduino programming]]></title>
-            <description><![CDATA[<article><h1>MicroFlo 0.2.0, visual Arduino programming</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0efe8e8aa5d46fdf2a4a39ceacc86f84f7082d10.png"></article>]]></description>
-            <link>http://www.jonnor.com/2013/11/microflo-0-2-0-visual-arduino-programming/</link>
-            <guid isPermaLink="false">98583ccf-959f-4785-bc93-d1619117d155</guid>
-            <pubDate>Thu, 22 Dec 2016 22:57:01 GMT</pubDate>
+            <title><![CDATA[How An Arcane Coding Method From 1970s Banking Software Could Save The Sanity Of Web Developers Everywhere]]></title>
+            <description><![CDATA[<article><h1>How An Arcane Coding Method From 1970s Banking Software Could Save The Sanity Of Web Developers Everywhere</h1><p>Today's web programmers grapple with problems that people in the early days never had to deal with. They're building complex UIs, juggling a bunch of APIs, and running multiple processes at the same time. All of these tasks require mastering the flow of data between application components in real-time, something which even the most advanced developers struggle with.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2f0d2b18c88d76968920d84a48f60647/noop.jpg?input=https%3A%2F%2Fd.fastcompany.net%2Fmultisite_files%2Ffastcompany%2Fimagecache%2F620x350%2Fposter%2F2013%2F08%2F3016289-poster-p-how-an-arcane-coding-method-from-1970s-banking-software-could-save-the-sanity-of-web-developers-ev.jpg"></article>]]></description>
+            <link>https://www.fastcompany.com/3016289/how-an-arcane-coding-method-from-1970s-banking-software-could-save-the-sanity-of-web-develop?show_rev_content</link>
+            <guid isPermaLink="false">9f94a92d-8de7-4a35-9a52-7e219aeac14a</guid>
+            <pubDate>Thu, 22 Dec 2016 23:16:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
