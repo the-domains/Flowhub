@@ -4,78 +4,80 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Dec 2016 22:56:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2016 22:58:46 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Dec 2016 22:56:02 GMT</pubDate>
+        <pubDate>Thu, 22 Dec 2016 22:58:21 GMT</pubDate>
         <item>
-            <title><![CDATA[NoFlo SFJS]]></title>
-            <description><![CDATA[<article><h1>NoFlo SFJS</h1><p>150% playback speed: vimeo.com/71952107 Support our kickstarter: kickstarter.com/projects/noflo/noflo-development-environment The NoFlo website: noflojs.org</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e4feefc7c9a82e6358f4b60eef172158/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F445716178_1280x720.jpg"></article>]]></description>
-            <link>https://vimeo.com/71970669</link>
-            <guid isPermaLink="false">8590f741-b123-42af-bdc9-079aad62f610</guid>
-            <pubDate>Thu, 22 Dec 2016 22:56:02 GMT</pubDate>
+            <title><![CDATA[Flowhub]]></title>
+            <description><![CDATA[<article><h1>Flowhub</h1><p>Peer-to-peer full-stack visual programming for your fingers. Funded by Kickstarter, from the NoFlo team. www.flowhub.io</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fbb04a936a5f46b9f8c94262fb9f7021/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F459722138_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/81458709</link>
+            <guid isPermaLink="false">0a96e057-0bda-48c9-99c1-002991391f82</guid>
+            <pubDate>Thu, 22 Dec 2016 22:58:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[FBP and NoFlo - another hacker's perspective]]></title>
-            <description><![CDATA[<article><h1>FBP and NoFlo - another hacker's perspective</h1><p>So FBP hasn't been suppressed, and is currently only used in niche industries. The truth is that it hasn't been tried for general purpose JS, which spans server, interactive UI, canvas, WebGL, Web Audio, and all future niches that JS finds. We're inviting our early community to help us design the patterns that make sense in those contexts.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/19485e8aab3fe38c1903275bb1b22eac/noop.jpg?input=http%3A%2F%2Fmeemoo.org%2Fimages%2Fnoflo-code.jpg"></article>]]></description>
-            <link>http://meemoo.org/blog/2013-08-24-fbp-and-noflo</link>
-            <guid isPermaLink="false">08b89a08-78be-42d0-b3a1-9714ef3d818c</guid>
-            <pubDate>Thu, 22 Dec 2016 22:52:22 GMT</pubDate>
+            <title><![CDATA[Full-Stack Flow-Based Programming]]></title>
+            <description><![CDATA[<article><h1>Full-Stack Flow-Based Programming</h1><p>The idea of Full-Stack Development is quite popular at the moment — building things that run both the browser and the server side of web development, usually utilizing similar languages and frameworks.
+
+With Flow-Based Programming and the emerging Flowhub ecosystem, we can take this even further. Thanks to the FBP network protocol we can build and monitor graphs spanning multiple devices and flow-based environments.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c062b4ebd46c196e0dcfbbdb3c0ab5f3/noop.jpg?input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Ffullstack-meetup.jpg"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/full-stack-fbp/</link>
+            <guid isPermaLink="false">2b0830b9-96d0-4739-8135-76705c0df4a8</guid>
+            <pubDate>Thu, 22 Dec 2016 22:58:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NoFlo Kickstarter, the hacker's perspective]]></title>
-            <description><![CDATA[<article><h1>NoFlo Kickstarter, the hacker's perspective</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c7565165b88a562aca0c491cb7b51ddf/noop.jpg?input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Fnoflo-ui-code.jpg"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/noflo-kickstarter-launch/</link>
-            <guid isPermaLink="false">fd3310de-33a6-48d4-ac91-3f89cbe831e0</guid>
-            <pubDate>Thu, 22 Dec 2016 22:52:20 GMT</pubDate>
+            <title><![CDATA[MicroFlo 0.2.0, visual Arduino programming]]></title>
+            <description><![CDATA[<article><h1>MicroFlo 0.2.0, visual Arduino programming</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0efe8e8aa5d46fdf2a4a39ceacc86f84f7082d10.png"></article>]]></description>
+            <link>http://www.jonnor.com/2013/11/microflo-0-2-0-visual-arduino-programming/</link>
+            <guid isPermaLink="false">98583ccf-959f-4785-bc93-d1619117d155</guid>
+            <pubDate>Thu, 22 Dec 2016 22:57:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NoFlo Development Environment]]></title>
-            <description><![CDATA[<article><h1>NoFlo Development Environment</h1><p>The Grid is raising funds for NoFlo Development Environment on Kickstarter! Designing a new way to build software & manage complexity - a visual development environment for all</p></article>]]></description>
-            <link>https://www.kickstarter.com/projects/noflo/noflo-development-environment/description</link>
-            <guid isPermaLink="false">04311dc3-a3f1-4dda-9f68-b5c115fe16a6</guid>
-            <pubDate>Thu, 22 Dec 2016 22:52:16 GMT</pubDate>
+            <title><![CDATA[PIKSEL 2013: MicroFlo, visual programming for microcontrollers (Arduino)]]></title>
+            <description><![CDATA[<article><h1>PIKSEL 2013: MicroFlo, visual programming for microcontrollers (Arduino)</h1><p>Presented at the Piksel festival in Bergen, http://13.piksel.no/ Video cut out from http://bambuser.com/v/4122524#t=13507s, recorded by Pixelache Helsinki http://www.pixelache.ac/</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fd9a1f3a2f27ca702baceb67ba5409c4/croprotate.jpg?cropheight=328&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fmizj6eoepC0%2Fhqdefault.jpg&x=0&y=16"></article>]]></description>
+            <link>https://youtu.be/mizj6eoepC0</link>
+            <guid isPermaLink="false">97c81fc1-9014-42e1-bd6e-598c5152b3be</guid>
+            <pubDate>Thu, 22 Dec 2016 22:56:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Leigh Taylor chats about designing the NoFlo UI]]></title>
-            <description><![CDATA[<article><h1>Leigh Taylor chats about designing the NoFlo UI</h1><p>http://noflojs.org</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7b08890d74fdb7fa28ef55ea41898d77/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F448658686_1920x1080.jpg"></article>]]></description>
-            <link>https://vimeo.com/68601823</link>
-            <guid isPermaLink="false">f865f558-2081-4c11-9afe-c73d783a7876</guid>
-            <pubDate>Thu, 22 Dec 2016 22:52:12 GMT</pubDate>
+            <title><![CDATA[Flowhub]]></title>
+            <description><![CDATA[<article><h1>Flowhub</h1><p>Peer-to-peer full-stack visual programming for your fingers. Funded by Kickstarter, from the NoFlo team. www.flowhub.io</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fbb04a936a5f46b9f8c94262fb9f7021/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F459722138_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/81458709</link>
+            <guid isPermaLink="false">584f4c25-c67a-4598-bf3a-7a3fe6f8b728</guid>
+            <pubDate>Thu, 22 Dec 2016 22:56:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The origins of NoFlo, interview with its creator]]></title>
-            <description><![CDATA[<article><h1>The origins of NoFlo, interview with its creator</h1><p>Support our Kickstarter! http://www.kickstarter.com/projects/noflo/noflo-development-environment For more info check out the NoFlo website: http://noflojs.org/</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6f0c6a746b426f4e507b2cfb38a12ad6/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F445469607_1920x1080.jpg"></article>]]></description>
-            <link>https://vimeo.com/68285726</link>
-            <guid isPermaLink="false">f77be10d-79f7-4a07-8d48-2477d236ba9b</guid>
-            <pubDate>Thu, 22 Dec 2016 22:49:36 GMT</pubDate>
+            <title><![CDATA[MicroFlo 0.1.0, and an Arduino powered fridge]]></title>
+            <description><![CDATA[<article><h1>MicroFlo 0.1.0, and an Arduino powered fridge</h1><p>Lately I've been playing with microcontrollers again; Atmel AVRs with and without Arduino boards. I've make a couple of tiny projects myself, helped an artist friend do interactive works and helped to integrated a microcontroller it in an embedded product at work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4932d4250a7b130305e3238479bd5d9b7a90df5.jpg"></article>]]></description>
+            <link>http://www.jonnor.com/2013/09/microflo-0-1-0-and-an-arduino-powered-fridge/</link>
+            <guid isPermaLink="false">35b9d134-4a06-4d20-96ad-767fdb0f3a92</guid>
+            <pubDate>Thu, 22 Dec 2016 22:56:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NoFlo: two years of flow-based programming]]></title>
-            <description><![CDATA[<article><h1>NoFlo: two years of flow-based programming</h1><p>NoFlo - the flow-based programming system I started - is now two years old. I pushed the first commits to GitHub on June 5th 2011 from Hacker Dojo in Mountain View.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0c5b2f759515efaf301ef61223ca2cad/noop.jpg?input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Foregon-coast.jpg"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/noflo-two-years/</link>
-            <guid isPermaLink="false">67bd08e0-f2fa-4d47-a6a3-2e830c9185c9</guid>
-            <pubDate>Thu, 22 Dec 2016 22:49:15 GMT</pubDate>
+            <title><![CDATA[Leo Zovic briefly introduces noflo -- Toronto FBP Meeting 1, Part 3]]></title>
+            <description><![CDATA[<article><h1>Leo Zovic briefly introduces noflo -- Toronto FBP Meeting 1, Part 3</h1><p>More information available here: http://noflojs.org/ My wife tells me I'm not actually as fat as I look here. I do really sound like that though. -_-</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2c049e7e2b9b683b305d10bd618f73c8/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F455578971_640x360.jpg"></article>]]></description>
+            <link>https://vimeo.com/79814291</link>
+            <guid isPermaLink="false">ceb24fd9-675f-498a-8eba-d241b2367156</guid>
+            <pubDate>Thu, 22 Dec 2016 22:56:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Thinking about the flow-based programming user interface]]></title>
-            <description><![CDATA[<article><h1>Thinking about the flow-based programming user interface</h1><p>As readers of this blog already know, I've been working on the NoFlo flow-based programming environment for JavaScript. Lately the development effort has received a large boost from both the EU-funded SmarcoS Project and client work, and so the question of a flow design UI has become even more urgent.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/26783c437464fd531cc431607f1de4ee/croprotate.png?cropheight=728&cropwidth=1098&degrees=0&input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Ffbp-ui%2Fdrawfbp.png&x=55&y=0"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/inspiration-for-fbp-ui/</link>
-            <guid isPermaLink="false">69273c2f-5985-4fcc-aacd-bdc773cfaf87</guid>
-            <pubDate>Thu, 22 Dec 2016 22:47:22 GMT</pubDate>
+            <title><![CDATA[Flying a Quadrocopter with NoFlo]]></title>
+            <description><![CDATA[<article><h1>Flying a Quadrocopter with NoFlo</h1><p>This will obviously be more interesting when we have the rest of the motion commands implemented, and can start reading the output of the various sensors on the drone to make it react to its environment.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/adec56097543ec1591dfb1c9f9b3e63f/noop.png?input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Fardrone.png"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/noflo-ardrone/</link>
+            <guid isPermaLink="false">8bae08ab-403c-4183-9cd6-b98aaeb69787</guid>
+            <pubDate>Thu, 22 Dec 2016 22:56:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NoFlo - Flow based Programming for Node.js]]></title>
-            <description><![CDATA[<article><h1>NoFlo - Flow based Programming for Node.js</h1><p>Talk from JS.Everywhere</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ddc1c7f0903bf8de322c4850343fced3/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F422051381_1280x720.jpg"></article>]]></description>
-            <link>https://vimeo.com/60736658</link>
-            <guid isPermaLink="false">688277eb-e0fb-4df4-92ee-ad459b273539</guid>
-            <pubDate>Thu, 22 Dec 2016 22:46:39 GMT</pubDate>
+            <title><![CDATA[Flow-Based Programming is Why I am an Engineer]]></title>
+            <description><![CDATA[<article><h1>Flow-Based Programming is Why I am an Engineer</h1><p>Talk by Dan Lynch, CTO of Brandcast (https://brandcast.com) at the Future of Software Design SF Meetup http://www.meetup.com/the-future-of-software-design-sf/events/133698162/</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0f66cb63e18f56a40d83026c2f977574/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F446897041_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/72855695</link>
+            <guid isPermaLink="false">5f9d30f3-9144-4dd0-92f8-d9526afc2ccb</guid>
+            <pubDate>Thu, 22 Dec 2016 22:56:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Distributing NoFlo components via NPM]]></title>
-            <description><![CDATA[<article><h1>Distributing NoFlo components via NPM</h1><p>NoFlo is an implementation of the Flow-Based Programming model for Node.js. Today I've released version 0.2.0 which provides a handy new feature: the ability to share components via NPM.</p></article>]]></description>
-            <link>http://bergie.iki.fi/blog/distributing-noflo-components/</link>
-            <guid isPermaLink="false">0d057ba4-cfe8-45e5-9313-9e1bee53174d</guid>
-            <pubDate>Thu, 22 Dec 2016 22:41:51 GMT</pubDate>
+            <title><![CDATA[Introduction to Flow-Based Programming and NoFlo]]></title>
+            <description><![CDATA[<article><h1>Introduction to Flow-Based Programming and NoFlo</h1><p>Talk by Henri Bergius at the c-base hackerspace in Berlin. See http://noflojs.org for more details!</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/68cc5ce86b9caa39d9279424d854fecb/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F445823533_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/72065207</link>
+            <guid isPermaLink="false">838a499b-3348-46f2-87f1-2b38f63bdc21</guid>
+            <pubDate>Thu, 22 Dec 2016 22:56:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
