@@ -1,4 +1,13 @@
+name: Flowhub Blog
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de9d0983-00f1-4ddb-a7b7-d9b73d809bc2.png
+layout_spectrum: 0.13883351790718734
 typography_spectrum: 0.2663107549306005
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#2C3E50'
@@ -8,14 +17,17 @@ color:
     - '#2980B9'
   brandStrength: 0.8091102663893253
   lightness: 0.16174883302301168
-  rhythmicContrast: 0.7785116084851325
   saturation: 0.4518469150643796
-github: true
-opengraph: {}
-layout_spectrum: 0.13883351790718734
-analytics: {}
-name: Flowhub
-cta: {}
+  rhythmicContrast: 0.7785116084851325
+purpose:
+  - type: external
+    label: Try Flowhub now
+    url: 'http://app.flowhub.io'
+title: Flowhub Blog
+description: News about Flowhub & FBP programming
+author: {}
+content_rating:
+  adult: false
 navigation:
   - name: MsgFlo
     url: 'https://msgflo.org'
@@ -33,10 +45,5 @@ navigation:
   - name: Documentation
     url: 'http://docs.flowhub.io/'
     type: external
-title: Flowhub Blog
 content: []
-description: News about Flowhub & FBP programming
-purpose:
-  - type: external
-    url: 'http://app.flowhub.io'
-    label: Try Flowhub now
+github: true
