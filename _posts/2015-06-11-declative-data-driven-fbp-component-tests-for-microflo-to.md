@@ -3,7 +3,8 @@ author:
   - name: jononor
     url: 'http://twitter.com/jononor'
     avatar:
-      src: 'https://pbs.twimg.com/profile_images/511715313453260800/7P4ui2rr_bigger.jpeg'
+      src: >-
+        https://pbs.twimg.com/profile_images/511715313453260800/7P4ui2rr_bigger.jpeg
       width: 73
       height: 73
       colors:
@@ -14,11 +15,7 @@ author:
           - 31
           - 31
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
+publisher: {}
 keywords:
   - location
   - twitter
@@ -30,14 +27,20 @@ keywords:
   - aohzt9hp5j
   - runtime
   - declative
-description: 'Declative, data-driven FBP component tests for MicroFlo. To be generalized for any @Flowhub_io runtime, with UI'
+description: >-
+  Declative, data-driven FBP component tests for MicroFlo. To be generalized for
+  any @Flowhub_io runtime, with UI
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/jononor/status/587565844768624640'
-datePublished: '2015-06-11T07:26:57.620Z'
+datePublished: '2016-12-22T22:30:55.705Z'
 dateModified: '2015-07-21T14:18:03.099Z'
 sourcePath: _posts/2015-06-11-declative-data-driven-fbp-component-tests-for-microflo-to.md
-published: true
+starred: false
+title: ''
+datePublishedOriginal: '2015-06-11T07:26:57.620Z'
+via: {}
+inFeed: true
 _type: Photograph
 _context: 'http://schema.org'
 
