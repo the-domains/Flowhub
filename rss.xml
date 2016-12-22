@@ -4,9 +4,23 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Dec 2016 22:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2016 22:51:12 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Dec 2016 22:47:22 GMT</pubDate>
+        <pubDate>Thu, 22 Dec 2016 22:49:39 GMT</pubDate>
+        <item>
+            <title><![CDATA[The origins of NoFlo, interview with its creator]]></title>
+            <description><![CDATA[<article><h1>The origins of NoFlo, interview with its creator</h1><p>Support our Kickstarter! http://www.kickstarter.com/projects/noflo/noflo-development-environment For more info check out the NoFlo website: http://noflojs.org/</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6f0c6a746b426f4e507b2cfb38a12ad6/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F445469607_1920x1080.jpg"></article>]]></description>
+            <link>https://vimeo.com/68285726</link>
+            <guid isPermaLink="false">f77be10d-79f7-4a07-8d48-2477d236ba9b</guid>
+            <pubDate>Thu, 22 Dec 2016 22:49:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NoFlo: two years of flow-based programming]]></title>
+            <description><![CDATA[<article><h1>NoFlo: two years of flow-based programming</h1><p>NoFlo - the flow-based programming system I started - is now two years old. I pushed the first commits to GitHub on June 5th 2011 from Hacker Dojo in Mountain View.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0c5b2f759515efaf301ef61223ca2cad/noop.jpg?input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Foregon-coast.jpg"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/noflo-two-years/</link>
+            <guid isPermaLink="false">67bd08e0-f2fa-4d47-a6a3-2e830c9185c9</guid>
+            <pubDate>Thu, 22 Dec 2016 22:49:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thinking about the flow-based programming user interface]]></title>
             <description><![CDATA[<article><h1>Thinking about the flow-based programming user interface</h1><p>As readers of this blog already know, I've been working on the NoFlo flow-based programming environment for JavaScript. Lately the development effort has received a large boost from both the EU-funded SmarcoS Project and client work, and so the question of a flow design UI has become even more urgent.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/26783c437464fd531cc431607f1de4ee/croprotate.png?cropheight=728&cropwidth=1098&degrees=0&input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Ffbp-ui%2Fdrawfbp.png&x=55&y=0"></article>]]></description>
@@ -62,13 +76,6 @@
             <link>https://twitter.com/jononor/status/701590954210410497</link>
             <guid isPermaLink="false">83058fa1-f508-4ba4-a600-bda2d561418e</guid>
             <pubDate>Tue, 07 Jun 2016 11:38:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/138b39d9-2cb1-4ccc-8339-037ad1faa092.png">]]></description>
-            <link>http://blog.flowhub.io/5cdb9f8e-5d15-4ee0-9915-190d54f038cc/index.html</link>
-            <guid isPermaLink="false">5cdb9f8e-5d15-4ee0-9915-190d54f038cc</guid>
-            <pubDate>Wed, 17 Feb 2016 20:43:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
