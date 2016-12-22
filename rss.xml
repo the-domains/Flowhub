@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Dec 2016 22:41:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2016 22:41:53 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Dec 2016 22:41:05 GMT</pubDate>
+        <pubDate>Thu, 22 Dec 2016 22:41:52 GMT</pubDate>
+        <item>
+            <title><![CDATA[Distributing NoFlo components via NPM]]></title>
+            <description><![CDATA[<article><h1>Distributing NoFlo components via NPM</h1><p>NoFlo is an implementation of the Flow-Based Programming model for Node.js. Today I've released version 0.2.0 which provides a handy new feature: the ability to share components via NPM.</p></article>]]></description>
+            <link>http://bergie.iki.fi/blog/distributing-noflo-components/</link>
+            <guid isPermaLink="false">0d057ba4-cfe8-45e5-9313-9e1bee53174d</guid>
+            <pubDate>Thu, 22 Dec 2016 22:41:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Domain-specific language for Flow-Based Programming]]></title>
             <description><![CDATA[<article><h1>Domain-specific language for Flow-Based Programming</h1><p>There is now a domain-specific language for designing control flows.</p></article>]]></description>
