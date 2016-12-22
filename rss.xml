@@ -4,9 +4,30 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Dec 2016 23:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2016 23:03:57 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Dec 2016 23:02:36 GMT</pubDate>
+        <pubDate>Thu, 22 Dec 2016 23:03:24 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61d04da33ff1c9818cbdb401db23cb071a02b026.png" alt="testing +NoFlo on the Node.js and #Windows 8 combo. Such a complex OS compared to the simplicity of Linux! But now tests pass...">]]></description>
+            <link>https://plus.google.com/+HenriBergius/posts/VVXBqGk5jA2</link>
+            <guid isPermaLink="false">b192c3e9-fca0-4e00-8064-335f5643f67d</guid>
+            <pubDate>Thu, 22 Dec 2016 23:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[imgflo 0.1: An image processing server and Flowhub runtime]]></title>
+            <description><![CDATA[<article><h1>imgflo 0.1: An image processing server and Flowhub runtime</h1><p>At TheGrid we are in need for a flexible service for doing server-side image processing. So after some discussion at LGM in Leipzig, I started writing one based on GEGL, the image processing library that will power the upcoming GIMP 2.10 release.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d5b11ed7cf841758833b22b77444681dca1cdde.png"></article>]]></description>
+            <link>http://www.jonnor.com/2014/04/imgflo-0-1-an-image-processing-server-and-flowhub-runtime/</link>
+            <guid isPermaLink="false">925699ab-bfbf-4fe4-a308-b2a710b07ff6</guid>
+            <pubDate>Thu, 22 Dec 2016 23:02:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flowhub]]></title>
+            <description><![CDATA[<article><h1>Flowhub</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5cdb5ecc15ff3d0581951f9201755e96/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F475921185_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/95895989</link>
+            <guid isPermaLink="false">c4d3f474-faa3-42b8-8d46-f9b768071ddd</guid>
+            <pubDate>Thu, 22 Dec 2016 23:02:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Interactive animations with NoFlo and Clutter]]></title>
             <description><![CDATA[<article><h1>Interactive animations with NoFlo and Clutter</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/cf088de18817b507fae35bebf757a7d6/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F1IPpd8jVNjg%2Fmaxresdefault.jpg"></article>]]></description>
@@ -57,27 +78,6 @@ With Flow-Based Programming and the emerging Flowhub ecosystem, we can take this
             <link>https://youtu.be/mizj6eoepC0</link>
             <guid isPermaLink="false">97c81fc1-9014-42e1-bd6e-598c5152b3be</guid>
             <pubDate>Thu, 22 Dec 2016 22:56:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flowhub]]></title>
-            <description><![CDATA[<article><h1>Flowhub</h1><p>Peer-to-peer full-stack visual programming for your fingers. Funded by Kickstarter, from the NoFlo team. www.flowhub.io</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fbb04a936a5f46b9f8c94262fb9f7021/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F459722138_1280x720.jpg"></article>]]></description>
-            <link>https://vimeo.com/81458709</link>
-            <guid isPermaLink="false">584f4c25-c67a-4598-bf3a-7a3fe6f8b728</guid>
-            <pubDate>Thu, 22 Dec 2016 22:56:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MicroFlo 0.1.0, and an Arduino powered fridge]]></title>
-            <description><![CDATA[<article><h1>MicroFlo 0.1.0, and an Arduino powered fridge</h1><p>Lately I've been playing with microcontrollers again; Atmel AVRs with and without Arduino boards. I've make a couple of tiny projects myself, helped an artist friend do interactive works and helped to integrated a microcontroller it in an embedded product at work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4932d4250a7b130305e3238479bd5d9b7a90df5.jpg"></article>]]></description>
-            <link>http://www.jonnor.com/2013/09/microflo-0-1-0-and-an-arduino-powered-fridge/</link>
-            <guid isPermaLink="false">35b9d134-4a06-4d20-96ad-767fdb0f3a92</guid>
-            <pubDate>Thu, 22 Dec 2016 22:56:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leo Zovic briefly introduces noflo -- Toronto FBP Meeting 1, Part 3]]></title>
-            <description><![CDATA[<article><h1>Leo Zovic briefly introduces noflo -- Toronto FBP Meeting 1, Part 3</h1><p>More information available here: http://noflojs.org/ My wife tells me I'm not actually as fat as I look here. I do really sound like that though. -_-</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2c049e7e2b9b683b305d10bd618f73c8/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F455578971_640x360.jpg"></article>]]></description>
-            <link>https://vimeo.com/79814291</link>
-            <guid isPermaLink="false">ceb24fd9-675f-498a-8eba-d241b2367156</guid>
-            <pubDate>Thu, 22 Dec 2016 22:56:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
