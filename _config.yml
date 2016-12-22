@@ -29,21 +29,11 @@ author: {}
 content_rating:
   adult: false
 navigation:
-  - name: MsgFlo
-    url: 'https://msgflo.org'
-    type: external
-  - name: Webapp
-    url: 'http://app.flowhub.io'
-    type: external
-  - name: Chrome app
-    url: >-
-      https://chrome.google.com/webstore/detail/flowhub/aacpjichompfhafnciggfpfdpfododlk
-    type: external
-  - name: NoFlo.js
-    url: 'https://noflojs.org'
-    type: external
   - name: Documentation
     url: 'http://docs.flowhub.io/'
+    type: external
+  - name: About Us
+    url: 'https://flowhub.io/about/'
     type: external
 content: []
 github: true
