@@ -35,7 +35,7 @@ content_rating:
   adult: false
 navigation:
   - name: Documentation
-    url: 'http://docs.flowhub.io/'
+    url: 'https://docs.flowhub.io/'
     type: external
   - name: About Us
     url: 'https://flowhub.io/about/'
