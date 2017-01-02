@@ -6,7 +6,10 @@ logo: >-
 layout_spectrum: 0.13883351790718734
 typography_spectrum: 0.2663107549306005
 cta: {}
-analytics: {}
+analytics:
+  facebook: ''
+  google: UA-46363984-3
+  twitter: ''
 opengraph:
   type: ''
   appId: ''
