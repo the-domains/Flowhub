@@ -1,5 +1,5 @@
-layout_spectrum: 0.7700516958442507
-typography_spectrum: 0.3064202155572095
+layout_spectrum: 0.5614941232223617
+typography_spectrum: 0.7683290189735149
 color:
   brandColors:
     - '#000000'
@@ -7,10 +7,10 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-  brandStrength: 0.35604839826297785
-  lightness: 0.36732250431653957
-  saturation: 0.3935885072792742
-  rhythmicContrast: 0.6239917654588376
+  brandStrength: 0.5774129349685799
+  lightness: 0.1068050955887884
+  saturation: 0.11463002414378051
+  rhythmicContrast: 0.9914798236356145
 name: Flowhub Blog
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a020c4e-9f6f-4552-9ecb-987f26162e4d.ico
