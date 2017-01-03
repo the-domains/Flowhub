@@ -1,10 +1,21 @@
+layout_spectrum: 0.7700516958442507
+typography_spectrum: 0.3064202155572095
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.35604839826297785
+  lightness: 0.36732250431653957
+  saturation: 0.3935885072792742
+  rhythmicContrast: 0.6239917654588376
 name: Flowhub Blog
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a020c4e-9f6f-4552-9ecb-987f26162e4d.ico
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/de9d0983-00f1-4ddb-a7b7-d9b73d809bc2.png
-layout_spectrum: 0.13883351790718734
-typography_spectrum: 0.2663107549306005
 cta: {}
 analytics:
   facebook: ''
@@ -13,17 +24,6 @@ analytics:
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  brandStrength: 0.8091102663893253
-  lightness: 0.16174883302301168
-  saturation: 0.4518469150643796
-  rhythmicContrast: 0.7785116084851325
 purpose:
   - type: external
     label: Try Flowhub now
