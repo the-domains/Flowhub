@@ -4,78 +4,78 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Dec 2016 23:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2017 22:53:46 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Dec 2016 23:24:19 GMT</pubDate>
+        <pubDate>Fri, 10 Feb 2017 22:53:42 GMT</pubDate>
         <item>
-            <title><![CDATA[guv: Automatic scaling of Heroku workers]]></title>
-            <description><![CDATA[<article><h1>guv: Automatic scaling of Heroku workers</h1><p>At The Grid we do a lot of computationally heavy work server-side, in order to produce websites from user-provided content. This includes image analytics (for understanding the content), constraint solving (for page layout) and image processing (optimization and filtering to achieve a particular look).</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/272dd7163b9851d86cc4a2caedc3ec02/croprotate.png?cropheight=387&cropwidth=1022&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2f299e06-fe10-4164-a038-1d3b0e5b28a9.png&x=1&y=1"></article>]]></description>
-            <link>http://www.jonnor.com/2015/11/guv-automatic-scaling/</link>
-            <guid isPermaLink="false">5e4a10ee-3ba8-4bb5-933c-0602b5b3df08</guid>
-            <pubDate>Thu, 22 Dec 2016 23:24:17 GMT</pubDate>
+            <title><![CDATA[Live programming IoT systems with MsgFlo+Flowhub]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5dc54ba9b3c8d4ab66118eb65360acc5/noop.png?input=http%3A%2F%2Fwww.jonnor.com%2Fwp%2Ffiles%2Fmsgflo-iot-antipipefreeze.png"><h1>Live programming IoT systems with MsgFlo+Flowhub</h1><p>Last weekend at FOSDEM I presented in the Internet of Things (IoT) devroom, showing how one can use MsgFlo with Flowhub to visually live-program devices that talk MQTT. Video recording of MsgFlo Internet of Things presentation at FOSDEM 2017.</p></article>]]></description>
+            <link>http://www.jonnor.com/2017/02/live-programming-iot-systems/</link>
+            <guid isPermaLink="false">bb1b740e-cf9e-4536-87b6-3b33a21d074c</guid>
+            <pubDate>Fri, 10 Feb 2017 22:53:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Announcing MsgFlo, a distributed FBP runtime]]></title>
-            <description><![CDATA[<article><h1>Announcing MsgFlo, a distributed FBP runtime</h1><p>At The Grid we do a lot of CPU intensive work on the backend as part of producing web pages. This includes content extraction, normalization, image analytics, webpage auto-layout using constraint solvers, webpage optimization ( GSS to CSS compilation) and image processing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90807e94bb623e7ae916c3a35e3f4ff582a5e960.png"></article>]]></description>
-            <link>http://www.jonnor.com/2015/06/announcing-msgflo-a-distributed-fbp-runtime/</link>
-            <guid isPermaLink="false">57d5464c-8e68-4876-b707-db3ad7a05008</guid>
-            <pubDate>Thu, 22 Dec 2016 23:22:55 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c32651c-7060-4150-a75f-2d4856e9555c.jpg">,<blockquote>The Flowhub team is in Brussels for @fosdem. MsgFlo IoT talk and FBP meetup tomorrow</blockquote>]]></description>
+            <link>https://twitter.com/Flowhub_io/status/827572458781868032</link>
+            <guid isPermaLink="false">23e3e413-0092-4823-94dd-9b30cb27c4d2</guid>
+            <pubDate>Fri, 03 Feb 2017 18:27:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turtle power to the people]]></title>
-            <description><![CDATA[<article><h1>Turtle power to the people</h1><p>During the first days we were preparing a workshop for MozFest’s #ArtOfWeb track. The idea was to present a quick introduction to Flowhub/NoFlo and how to use it to draw with Mirobot. Then we would let people create their own drawings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7f51c78211ad9aacb8e836a394e4a7fffd1a31a.png"></article>]]></description>
-            <link>http://meemoo.org/blog/2015-01-14-turtle-power-to-the-people</link>
-            <guid isPermaLink="false">9ef63598-2a59-428b-b05e-5117ca60ad12</guid>
-            <pubDate>Thu, 22 Dec 2016 23:22:49 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>New website for MsgFlo, the distributed flow-based programming environment for message queues: https://MsgFlo.org</blockquote>]]></description>
+            <link>https://twitter.com/bergie/status/827224733695479808</link>
+            <guid isPermaLink="false">cb75a6f0-3a7e-4cbf-846c-3d5b3d75454b</guid>
+            <pubDate>Thu, 02 Feb 2017 18:40:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[imgflo 0.3: GEGL metaoperations++]]></title>
-            <description><![CDATA[<article><h1>imgflo 0.3: GEGL metaoperations++</h1><p>Time for a new release of imgflo, the image processing server and dataflow runtime based on GEGL. This iteration has been mostly focused on ironing out various workflow issues, including documentation. Primarily so that the creatives in our team can be productive in developing new image filters/processing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4766dae4ada9549fb760e054e895080fb5b3fed.jpg"></article>]]></description>
-            <link>http://www.jonnor.com/2015/01/imgflo-0-3/</link>
-            <guid isPermaLink="false">34f27023-a442-4d4b-bba9-b5720bbc7bdd</guid>
-            <pubDate>Thu, 22 Dec 2016 23:22:41 GMT</pubDate>
+            <title><![CDATA[Flow-Based Programming for Trading Systems]]></title>
+            <description><![CDATA[<article><h1>Flow-Based Programming for Trading Systems</h1><p>This blog introduces Flow-Based Programming paradigm with the help of an example application that utilizes Apache NiFi for orchestrating monitoring of trading systems</p><img src="https://aasharsite.files.wordpress.com/2016/12/fig33.png?w=1200"></article>]]></description>
+            <link>https://aasharsite.wordpress.com/2016/12/29/flow-based-programming-for-trading-systems/</link>
+            <guid isPermaLink="false">4e8f61d1-33f8-43ce-b172-bbd3aa1568d1</guid>
+            <pubDate>Tue, 31 Jan 2017 17:38:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Companies to Watch in 2015: NoFlo]]></title>
-            <description><![CDATA[<article><h1>Companies to Watch in 2015: NoFlo</h1><p>As technology platforms and paradigms shift, morph and ultimately change how we interact with our devices and workstations, gaps between old and new widen while innovative ideas have room to take root. To turn the light onto those emerging companies, SD Times is pleased to again present its Companies to Watch in 2015.</p></article>]]></description>
-            <link>http://sdtimes.com/companies-watch-2015/3/</link>
-            <guid isPermaLink="false">d6e0b02c-4dae-4183-8dcc-41825a971756</guid>
-            <pubDate>Thu, 22 Dec 2016 23:18:34 GMT</pubDate>
+            <title><![CDATA[New business, new cards]]></title>
+            <description><![CDATA[<img alt="New business, new cards" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16124129_245660569205842_6906288286478630912_n.jpg?ig_cache_key=MTQzMjc2NDEyNTcyOTg3Mjg0OQ%3D%3D.2">]]></description>
+            <link>https://www.instagram.com/p/BPiM2GZDVvR/</link>
+            <guid isPermaLink="false">d2674d71-ef30-4fb5-8a3d-4f109cd585db</guid>
+            <pubDate>Wed, 25 Jan 2017 09:41:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[sndflo 0.1: Visual sound programming in SuperCollider]]></title>
-            <description><![CDATA[<article><h1>sndflo 0.1: Visual sound programming in SuperCollider</h1><p>SuperCollider is an open source project for real-time audio synthesis and algorithmic composition. It is split into two parts; an interpreter (sclang) implementing the SuperCollider language and the audio synthesis server (scsynth). The server has an directed acyclic graph of nodes which it executes to produce the audio output ( paper| book on internals).</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a55e8b4b8eae306786c45ac36a58beea/croprotate.jpg?cropheight=280&cropwidth=480&degrees=0&input=http%3A%2F%2Fi3.ytimg.com%2Fvi%2F5Rx_WBJD2Mw%2Fhqdefault.jpg&x=0&y=40"></article>]]></description>
-            <link>http://www.jonnor.com/2014/12/sndflo-0-1-visual-supercollider-sound-programming/</link>
-            <guid isPermaLink="false">c661f228-1455-41c3-9b6e-89047674df81</guid>
-            <pubDate>Thu, 22 Dec 2016 23:18:30 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>If you&apos;re attending FOSDEM, come to chat about FBP and dataflow programming! We&apos;ll be there representing NoFlo, MicroFlo, and MsgFlo. We could meet at the AW building and head for food or drinks afterwards</blockquote>]]></description>
+            <link>https://plus.google.com/events/c82g0u58md3ii71dp3f6kc83iqo</link>
+            <guid isPermaLink="false">c3b5f9d7-3e41-4d76-b381-516b25a09240</guid>
+            <pubDate>Fri, 20 Jan 2017 11:52:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Artificial intelligence designs websites, uses open technology stack]]></title>
-            <description><![CDATA[<article><h1>Artificial intelligence designs websites, uses open technology stack</h1><p>It's been years since AI was supposed to take over dirty bits of work and let humanity get on with creating amazing art, exploring the universe and generally enjoying life. The Grid, a San Francisco based company, recently made a contribution to the matter.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/478361534445789ee824366bb900df531ae3d067.jpg"></article>]]></description>
-            <link>http://libregraphicsworld.org/blog/entry/artificial-intelligence-designs-websites-uses-open-technology-stack</link>
-            <guid isPermaLink="false">9bda3fa4-1549-4da8-8fd6-7c6536ee267b</guid>
-            <pubDate>Thu, 22 Dec 2016 23:18:23 GMT</pubDate>
+            <title><![CDATA[Process API for NoFlo components]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c2cedf6b1655428e0def7a11a95659d7/noop.png?input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Fa17b8582-fc33-11e5-9826-a722b90913ce.png"><h1>Process API for NoFlo components</h1><p>It has been a while that I&rsquo;ve written about flow-based programming &mdash; but now that I&rsquo;m putting most of my time to Flowhub things are moving really quickly. One example is the new component API in NoFlo that has been emerging over the last year or so.</p></article>]]></description>
+            <link>http://bergie.iki.fi/blog/noflo-process-api/</link>
+            <guid isPermaLink="false">d231f9e7-2e3a-4aa5-921d-479216602d46</guid>
+            <pubDate>Thu, 05 Jan 2017 21:22:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jon Nordby - Death to Black Boxes (2014 OHS)]]></title>
-            <description><![CDATA[<article><h1>Jon Nordby - Death to Black Boxes (2014 OHS)</h1><p>Death to Black Boxes by Jon Nordby Session: Democratizing Knowledge 2014 Open Hardware Summit https://twitter.com/ohsummit http://www.2014.oshwa.org/ http://www.oshwa.org/</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3bcdfcd613a41a645a53fef64e18012b/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F494826799_1920x1080.jpg"></article>]]></description>
-            <link>https://vimeo.com/110527483</link>
-            <guid isPermaLink="false">40193a60-9f20-40d7-b1ec-df84a5171f26</guid>
-            <pubDate>Thu, 22 Dec 2016 23:18:17 GMT</pubDate>
+            <title><![CDATA[FOSDEM 2017 - Building distributed systems with Msgflo]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/675f9a284d761bae85b09ecb399da0ba/noop.png?input=https%3A%2F%2Ffosdem.org%2F2017%2Fassets%2Fstyle%2Flogo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png"><h1>FOSDEM 2017 - Building distributed systems with Msgflo</h1><p>MsgFlo is a tool to build systems that span multiple processes and devices, for instance IoT sensor networks. Each device acts as a black-box component with input and output ports, mapped to MQTT message queues. One then constructs a system by binding the queues of the components together.</p></article>]]></description>
+            <link>https://fosdem.org/2017/schedule/event/iot_msgflo/</link>
+            <guid isPermaLink="false">1c530a33-e432-4fc1-91a0-06b02aaa162a</guid>
+            <pubDate>Mon, 02 Jan 2017 17:52:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[imgflo 0.2, The Grid launched]]></title>
-            <description><![CDATA[<article><h1>imgflo 0.2, The Grid launched</h1><p>When I announced the first release of the imgflo project in April, it was perhaps difficult to see what exactly it was useful for and why we are developing it. This has changed now as 3 weeks ago we launched The Grid, our AI-based web publishing platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51d2902f1a7df38dd1918de708e5613c31cb6e71.png"></article>]]></description>
-            <link>http://www.jonnor.com/2014/11/imgflo-0-2-the-grid-launched/</link>
-            <guid isPermaLink="false">bfe23de2-5aa2-4a8d-9048-28f21dfda5fb</guid>
-            <pubDate>Thu, 22 Dec 2016 23:18:03 GMT</pubDate>
+            <title><![CDATA[Evolution of noflo-ui]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FkF6GP7-01lA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkF6GP7-01lA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FkF6GP7-01lA%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=kF6GP7-01lA</link>
+            <guid isPermaLink="false">baa0782d-f586-4dd0-95cb-1de51210c81c</guid>
+            <pubDate>Thu, 22 Dec 2016 23:49:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How An Arcane Coding Method From 1970s Banking Software Could Save The Sanity Of Web Developers Everywhere]]></title>
-            <description><![CDATA[<article><h1>How An Arcane Coding Method From 1970s Banking Software Could Save The Sanity Of Web Developers Everywhere</h1><p>Today's web programmers grapple with problems that people in the early days never had to deal with. They're building complex UIs, juggling a bunch of APIs, and running multiple processes at the same time. All of these tasks require mastering the flow of data between application components in real-time, something which even the most advanced developers struggle with.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2f0d2b18c88d76968920d84a48f60647/noop.jpg?input=https%3A%2F%2Fd.fastcompany.net%2Fmultisite_files%2Ffastcompany%2Fimagecache%2F620x350%2Fposter%2F2013%2F08%2F3016289-poster-p-how-an-arcane-coding-method-from-1970s-banking-software-could-save-the-sanity-of-web-developers-ev.jpg"></article>]]></description>
-            <link>https://www.fastcompany.com/3016289/how-an-arcane-coding-method-from-1970s-banking-software-could-save-the-sanity-of-web-develop?show_rev_content</link>
-            <guid isPermaLink="false">9f94a92d-8de7-4a35-9a52-7e219aeac14a</guid>
-            <pubDate>Thu, 22 Dec 2016 23:16:56 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Initial #rustlang support for msgflo, a super easy way to expose code on #AMQP #rabbitmq https://github.com/msgflo/msgflo-rust ...pic.twitter.com/k7pxggKfKn" src="https://pbs.twimg.com/media/CbyNQT6XIAAjkO8.jpg:large">]]></description>
+            <link>https://twitter.com/jononor/status/701590954210410497</link>
+            <guid isPermaLink="false">83058fa1-f508-4ba4-a600-bda2d561418e</guid>
+            <pubDate>Thu, 22 Dec 2016 23:25:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
