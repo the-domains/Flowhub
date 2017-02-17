@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Feb 2017 22:53:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2017 16:46:39 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Feb 2017 22:53:42 GMT</pubDate>
+        <pubDate>Fri, 17 Feb 2017 16:46:37 GMT</pubDate>
+        <item>
+            <title><![CDATA[Redux-style middleware with NoFlo]]></title>
+            <description><![CDATA[<article><h1>Redux-style middleware with NoFlo</h1><p>This post talks about some useful patterns for dataflow architecture in NoFlo web applications. We&apos;re using these concepts to build Flowhub, the flow-based programming IDE. Flux is an application architecture for web applications published by Facebook back in 2014.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/noflo_flux_example.png"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/redux-middleware-noflo/</link>
+            <guid isPermaLink="false">e27a2767-741a-424c-ba41-90438bf0e015</guid>
+            <pubDate>Fri, 17 Feb 2017 16:46:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Live programming IoT systems with MsgFlo+Flowhub]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5dc54ba9b3c8d4ab66118eb65360acc5/noop.png?input=http%3A%2F%2Fwww.jonnor.com%2Fwp%2Ffiles%2Fmsgflo-iot-antipipefreeze.png"><h1>Live programming IoT systems with MsgFlo+Flowhub</h1><p>Last weekend at FOSDEM I presented in the Internet of Things (IoT) devroom, showing how one can use MsgFlo with Flowhub to visually live-program devices that talk MQTT. Video recording of MsgFlo Internet of Things presentation at FOSDEM 2017.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=kF6GP7-01lA</link>
             <guid isPermaLink="false">baa0782d-f586-4dd0-95cb-1de51210c81c</guid>
             <pubDate>Thu, 22 Dec 2016 23:49:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Initial #rustlang support for msgflo, a super easy way to expose code on #AMQP #rabbitmq https://github.com/msgflo/msgflo-rust ...pic.twitter.com/k7pxggKfKn" src="https://pbs.twimg.com/media/CbyNQT6XIAAjkO8.jpg:large">]]></description>
-            <link>https://twitter.com/jononor/status/701590954210410497</link>
-            <guid isPermaLink="false">83058fa1-f508-4ba4-a600-bda2d561418e</guid>
-            <pubDate>Thu, 22 Dec 2016 23:25:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
