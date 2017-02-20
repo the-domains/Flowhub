@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Feb 2017 16:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2017 20:53:28 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Feb 2017 16:46:37 GMT</pubDate>
+        <pubDate>Mon, 20 Feb 2017 20:52:32 GMT</pubDate>
+        <item>
+            <title><![CDATA[Data-driven testing with fbp-spec]]></title>
+            <description><![CDATA[<article><h1>Data-driven testing with fbp-spec</h1><p>Automated testing is a key part of software development toolkit and practice. fbp-spec is a testing framework especially designed for Flow-based Programming(FBP)/dataflow programming, which can be used with any FBP runtime. For imperative or object-oriented Read More ...</p><img src="http://www.jonnor.com/wp/files/fbpspec-fixture-imageprocessing.png"></article>]]></description>
+            <link>http://www.jonnor.com/2017/02/data-driven-testing-with-fbp-spec/</link>
+            <guid isPermaLink="false">9c51352a-09d5-4ada-b9ad-f06434a5323f</guid>
+            <pubDate>Mon, 20 Feb 2017 20:52:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Redux-style middleware with NoFlo]]></title>
             <description><![CDATA[<article><h1>Redux-style middleware with NoFlo</h1><p>This post talks about some useful patterns for dataflow architecture in NoFlo web applications. We&apos;re using these concepts to build Flowhub, the flow-based programming IDE. Flux is an application architecture for web applications published by Facebook back in 2014.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/noflo_flux_example.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://fosdem.org/2017/schedule/event/iot_msgflo/</link>
             <guid isPermaLink="false">1c530a33-e432-4fc1-91a0-06b02aaa162a</guid>
             <pubDate>Mon, 02 Jan 2017 17:52:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Evolution of noflo-ui]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FkF6GP7-01lA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkF6GP7-01lA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FkF6GP7-01lA%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://www.youtube.com/watch?v=kF6GP7-01lA</link>
-            <guid isPermaLink="false">baa0782d-f586-4dd0-95cb-1de51210c81c</guid>
-            <pubDate>Thu, 22 Dec 2016 23:49:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
