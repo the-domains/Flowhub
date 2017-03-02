@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Feb 2017 18:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2017 08:52:22 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Feb 2017 18:20:01 GMT</pubDate>
+        <pubDate>Thu, 02 Mar 2017 08:51:47 GMT</pubDate>
+        <item>
+            <title><![CDATA[Host-based simulation for embedded systems]]></title>
+            <description><![CDATA[<article><h1>Host-based simulation for embedded systems</h1><p>Embedded systems and microcontroller programs can be really hard to understand. Here are some techniques that can help. An embedded system is a computer system with a dedicated function within a larger mechanical or electrical system ...</p><img src="http://www.jonnor.com/wp/files/finger-versul-palm-highpassed.png"></article>]]></description>
+            <link>http://www.jonnor.com/2017/03/host-based-simulation-for-embedded-systems/</link>
+            <guid isPermaLink="false">15fa8dd0-2bfe-424b-b748-2106cd57e0fc</guid>
+            <pubDate>Thu, 02 Mar 2017 08:51:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Building NoFlo browser applications with webpack]]></title>
             <description><![CDATA[<article><h1>Building NoFlo browser applications with webpack</h1><p>I was looking at some of the Stack Overflow noflo questions yesterday, and there were a few related to building NoFlo for the browser. This made me realize we haven&apos;t really talked about the major change we made to browser builds recently: webpack.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/noflo-browser-app-webrtc.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.instagram.com/p/BPiM2GZDVvR/</link>
             <guid isPermaLink="false">d2674d71-ef30-4fb5-8a3d-4f109cd585db</guid>
             <pubDate>Wed, 25 Jan 2017 09:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>If you&apos;re attending FOSDEM, come to chat about FBP and dataflow programming! We&apos;ll be there representing NoFlo, MicroFlo, and MsgFlo. We could meet at the AW building and head for food or drinks afterwards</blockquote>]]></description>
-            <link>https://plus.google.com/events/c82g0u58md3ii71dp3f6kc83iqo</link>
-            <guid isPermaLink="false">c3b5f9d7-3e41-4d76-b381-516b25a09240</guid>
-            <pubDate>Fri, 20 Jan 2017 11:52:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
