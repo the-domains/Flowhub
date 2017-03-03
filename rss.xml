@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Mar 2017 08:52:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2017 09:23:47 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Mar 2017 08:51:47 GMT</pubDate>
+        <pubDate>Fri, 03 Mar 2017 09:23:42 GMT</pubDate>
+        <item>
+            <title><![CDATA[NoFlo 0.8 is out now]]></title>
+            <description><![CDATA[<article><h1>NoFlo 0.8 is out now</h1><p>After several months of work, NoFlo 0.8 is finally out as a stable release. This release is important in that it brings the Process API for NoFlo components to general availability, paving way for the 1.x series. We introduced Process API in the 0.7 series last summer, but at that stage it wasn&apos;t deemed good enough for production use.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/a17b8582-fc33-11e5-9826-a722b90913ce.png"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/noflo-0-8/</link>
+            <guid isPermaLink="false">ec6cc309-d614-42ac-aa80-4e665c6f4713</guid>
+            <pubDate>Fri, 03 Mar 2017 09:23:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Host-based simulation for embedded systems]]></title>
             <description><![CDATA[<article><h1>Host-based simulation for embedded systems</h1><p>Embedded systems and microcontroller programs can be really hard to understand. Here are some techniques that can help. An embedded system is a computer system with a dedicated function within a larger mechanical or electrical system ...</p><img src="http://www.jonnor.com/wp/files/finger-versul-palm-highpassed.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://aasharsite.wordpress.com/2016/12/29/flow-based-programming-for-trading-systems/</link>
             <guid isPermaLink="false">4e8f61d1-33f8-43ce-b172-bbd3aa1568d1</guid>
             <pubDate>Tue, 31 Jan 2017 17:38:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New business, new cards]]></title>
-            <description><![CDATA[<img alt="New business, new cards" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16124129_245660569205842_6906288286478630912_n.jpg?ig_cache_key=MTQzMjc2NDEyNTcyOTg3Mjg0OQ%3D%3D.2">]]></description>
-            <link>https://www.instagram.com/p/BPiM2GZDVvR/</link>
-            <guid isPermaLink="false">d2674d71-ef30-4fb5-8a3d-4f109cd585db</guid>
-            <pubDate>Wed, 25 Jan 2017 09:41:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
