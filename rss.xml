@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Mar 2017 09:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2017 14:00:13 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Mar 2017 09:23:42 GMT</pubDate>
+        <pubDate>Tue, 07 Mar 2017 13:50:26 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Major updates to NoFlo 0.8 documentation, including a project tutorial: https://t.co/5czaMSFWQM big thanks to @aretecode and @jononor</blockquote>]]></description>
+            <link>https://twitter.com/noflo/status/839104692324089857</link>
+            <guid isPermaLink="false">935100af-73ec-46df-a35b-75c20a9b8228</guid>
+            <pubDate>Tue, 07 Mar 2017 13:50:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NoFlo 0.8 is out now]]></title>
             <description><![CDATA[<article><h1>NoFlo 0.8 is out now</h1><p>After several months of work, NoFlo 0.8 is finally out as a stable release. This release is important in that it brings the Process API for NoFlo components to general availability, paving way for the 1.x series. We introduced Process API in the 0.7 series last summer, but at that stage it wasn&apos;t deemed good enough for production use.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/a17b8582-fc33-11e5-9826-a722b90913ce.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/bergie/status/827224733695479808</link>
             <guid isPermaLink="false">cb75a6f0-3a7e-4cbf-846c-3d5b3d75454b</guid>
             <pubDate>Thu, 02 Feb 2017 18:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flow-Based Programming for Trading Systems]]></title>
-            <description><![CDATA[<article><h1>Flow-Based Programming for Trading Systems</h1><p>This blog introduces Flow-Based Programming paradigm with the help of an example application that utilizes Apache NiFi for orchestrating monitoring of trading systems</p><img src="https://aasharsite.files.wordpress.com/2016/12/fig33.png?w=1200"></article>]]></description>
-            <link>https://aasharsite.wordpress.com/2016/12/29/flow-based-programming-for-trading-systems/</link>
-            <guid isPermaLink="false">4e8f61d1-33f8-43ce-b172-bbd3aa1568d1</guid>
-            <pubDate>Tue, 31 Jan 2017 17:38:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
