@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Mar 2017 14:00:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2017 14:43:59 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Mar 2017 13:50:26 GMT</pubDate>
+        <pubDate>Fri, 10 Mar 2017 14:43:34 GMT</pubDate>
+        <item>
+            <title><![CDATA[asCallback: embedding NoFlo graphs in JavaScript programs]]></title>
+            <description><![CDATA[<article><h1>asCallback: embedding NoFlo graphs in JavaScript programs</h1><p>It has always been easy to wrap existing JavaScript code into NoFlo graphs - just write a component that exposes its functionality via some ports. Going the other way and exposing a NoFlo graph to JS land was also possible but cumbersome. With NoFlo 0.8.3 we now made it super easy with the new asCallback API.</p></article>]]></description>
+            <link>http://bergie.iki.fi/blog/ascallback/</link>
+            <guid isPermaLink="false">a8c39dcd-490f-40f1-8e61-4d8e482531b5</guid>
+            <pubDate>Fri, 10 Mar 2017 14:43:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>Major updates to NoFlo 0.8 documentation, including a project tutorial: https://t.co/5czaMSFWQM big thanks to @aretecode and @jononor</blockquote>]]></description>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/Flowhub_io/status/827572458781868032</link>
             <guid isPermaLink="false">23e3e413-0092-4823-94dd-9b30cb27c4d2</guid>
             <pubDate>Fri, 03 Feb 2017 18:27:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>New website for MsgFlo, the distributed flow-based programming environment for message queues: https://MsgFlo.org</blockquote>]]></description>
-            <link>https://twitter.com/bergie/status/827224733695479808</link>
-            <guid isPermaLink="false">cb75a6f0-3a7e-4cbf-846c-3d5b3d75454b</guid>
-            <pubDate>Thu, 02 Feb 2017 18:40:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
