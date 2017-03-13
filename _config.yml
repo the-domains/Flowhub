@@ -24,7 +24,10 @@ color:
   lightness: 0.1068050955887884
   saturation: 0.11463002414378051
   rhythmicContrast: 0.9914798236356145
-purpose: []
+purpose:
+  - type: external
+    label: Get started
+    url: 'https://plans.flowhub.io'
 title: Flowhub Blog
 description: News about Flowhub & FBP programming
 author: {}
