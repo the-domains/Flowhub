@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Mar 2017 14:43:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2017 18:21:40 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Mar 2017 14:43:34 GMT</pubDate>
+        <pubDate>Mon, 13 Mar 2017 18:21:39 GMT</pubDate>
+        <item>
+            <title><![CDATA[Forcing a specific NoFlo version for all dependencies - A system brought to life]]></title>
+            <description><![CDATA[<article><h1>Forcing a specific NoFlo version for all dependencies - A system brought to life</h1><p>Using NPM Shrinkwrap to enforce the same version of NoFlo for all dependencies to fix backwards compatibility issues</p></article>]]></description>
+            <link>http://blog.kodigy.com/post/noflo_08_npm_shrinkwrap/</link>
+            <guid isPermaLink="false">47637ac1-7ff1-4212-b6bc-dcc43ba72894</guid>
+            <pubDate>Mon, 13 Mar 2017 18:21:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[asCallback: embedding NoFlo graphs in JavaScript programs]]></title>
             <description><![CDATA[<article><h1>asCallback: embedding NoFlo graphs in JavaScript programs</h1><p>It has always been easy to wrap existing JavaScript code into NoFlo graphs - just write a component that exposes its functionality via some ports. Going the other way and exposing a NoFlo graph to JS land was also possible but cumbersome. With NoFlo 0.8.3 we now made it super easy with the new asCallback API.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.jonnor.com/2017/02/live-programming-iot-systems/</link>
             <guid isPermaLink="false">bb1b740e-cf9e-4536-87b6-3b33a21d074c</guid>
             <pubDate>Fri, 10 Feb 2017 22:53:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c32651c-7060-4150-a75f-2d4856e9555c.jpg">,<blockquote>The Flowhub team is in Brussels for @fosdem. MsgFlo IoT talk and FBP meetup tomorrow</blockquote>]]></description>
-            <link>https://twitter.com/Flowhub_io/status/827572458781868032</link>
-            <guid isPermaLink="false">23e3e413-0092-4823-94dd-9b30cb27c4d2</guid>
-            <pubDate>Fri, 03 Feb 2017 18:27:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
