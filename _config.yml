@@ -1,5 +1,18 @@
+name: Flowhub Blog
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a020c4e-9f6f-4552-9ecb-987f26162e4d.ico
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de9d0983-00f1-4ddb-a7b7-d9b73d809bc2.png
 layout_spectrum: 0.5614941232223617
 typography_spectrum: 0.7683290189735149
+cta: {}
+analytics:
+  facebook: ''
+  google: UA-46363984-3
+  twitter: ''
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#000000'
@@ -11,23 +24,7 @@ color:
   lightness: 0.1068050955887884
   saturation: 0.11463002414378051
   rhythmicContrast: 0.9914798236356145
-name: Flowhub Blog
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a020c4e-9f6f-4552-9ecb-987f26162e4d.ico
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de9d0983-00f1-4ddb-a7b7-d9b73d809bc2.png
-cta: {}
-analytics:
-  facebook: ''
-  google: UA-46363984-3
-  twitter: ''
-opengraph:
-  type: ''
-  appId: ''
-purpose:
-  - type: external
-    label: Try Flowhub now
-    url: 'http://app.flowhub.io'
+purpose: []
 title: Flowhub Blog
 description: News about Flowhub & FBP programming
 author: {}
