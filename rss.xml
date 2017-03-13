@@ -4,12 +4,12 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Mar 2017 18:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2017 18:25:58 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Mar 2017 18:21:39 GMT</pubDate>
+        <pubDate>Mon, 13 Mar 2017 18:25:57 GMT</pubDate>
         <item>
-            <title><![CDATA[Forcing a specific NoFlo version for all dependencies - A system brought to life]]></title>
-            <description><![CDATA[<article><h1>Forcing a specific NoFlo version for all dependencies - A system brought to life</h1><p>Using NPM Shrinkwrap to enforce the same version of NoFlo for all dependencies to fix backwards compatibility issues</p></article>]]></description>
+            <title><![CDATA[Forcing a specific NoFlo version for all dependencies]]></title>
+            <description><![CDATA[<article><h1>Forcing a specific NoFlo version for all dependencies</h1><p>Using NPM Shrinkwrap to enforce the same version of NoFlo for all dependencies to fix backwards compatibility issues</p></article>]]></description>
             <link>http://blog.kodigy.com/post/noflo_08_npm_shrinkwrap/</link>
             <guid isPermaLink="false">47637ac1-7ff1-4212-b6bc-dcc43ba72894</guid>
             <pubDate>Mon, 13 Mar 2017 18:21:38 GMT</pubDate>
