@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Mar 2017 12:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2017 09:36:24 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Mar 2017 12:13:00 GMT</pubDate>
+        <pubDate>Fri, 17 Mar 2017 09:36:23 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Flowhub won the award for technical brilliance at #BCX17 Open Hack Challenge. Congrats also to the overall hackathon winners!</blockquote>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de23723a-edef-408d-b95f-54e7cddccea8.jpg">]]></description>
+            <link>https://twitter.com/Flowhub_io/status/842476310656086021</link>
+            <guid isPermaLink="false">005a0952-24aa-4b2b-b815-7769899526df</guid>
+            <pubDate>Fri, 17 Mar 2017 09:36:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bosch Connected Experience: Eclipse Hono and MsgFlo]]></title>
             <description><![CDATA[<article><h1>Bosch Connected Experience: Eclipse Hono and MsgFlo</h1><p>I&apos;ve been attending the Bosch Connected Experience IoT hackathon this week at Station Berlin. Bosch brought a lot of different devices to the event, all connected to send telemetry to Eclipse Hono. To make them more discoverable, and enable rapid prototyping I decided to expose them all to Flowhub via the MsgFlo distributed FBP runtime.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/bcx17-open-hack.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.jonnor.com/2017/02/data-driven-testing-with-fbp-spec/</link>
             <guid isPermaLink="false">9c51352a-09d5-4ada-b9ad-f06434a5323f</guid>
             <pubDate>Mon, 20 Feb 2017 20:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Redux-style middleware with NoFlo]]></title>
-            <description><![CDATA[<article><h1>Redux-style middleware with NoFlo</h1><p>This post talks about some useful patterns for dataflow architecture in NoFlo web applications. We&apos;re using these concepts to build Flowhub, the flow-based programming IDE. Flux is an application architecture for web applications published by Facebook back in 2014.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/noflo_flux_example.png"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/redux-middleware-noflo/</link>
-            <guid isPermaLink="false">e27a2767-741a-424c-ba41-90438bf0e015</guid>
-            <pubDate>Fri, 17 Feb 2017 16:46:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
