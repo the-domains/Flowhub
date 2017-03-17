@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Mar 2017 09:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2017 15:54:21 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Mar 2017 09:36:23 GMT</pubDate>
+        <pubDate>Fri, 17 Mar 2017 15:54:20 GMT</pubDate>
+        <item>
+            <title><![CDATA[Eclipse Hono and Flowhub at BCX17]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FziQmFjXYE3c%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DziQmFjXYE3c&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FziQmFjXYE3c%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/ziQmFjXYE3c</link>
+            <guid isPermaLink="false">c7b19a0b-caed-4745-94cc-41e25070248f</guid>
+            <pubDate>Fri, 17 Mar 2017 15:54:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>Flowhub won the award for technical brilliance at #BCX17 Open Hack Challenge. Congrats also to the overall hackathon winners!</blockquote>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de23723a-edef-408d-b95f-54e7cddccea8.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/Flowhub_io/status/835044016999788544</link>
             <guid isPermaLink="false">1abacdfa-739c-4efc-ad85-8d3e330b8bb3</guid>
             <pubDate>Fri, 24 Feb 2017 09:19:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Data-driven testing with fbp-spec]]></title>
-            <description><![CDATA[<article><h1>Data-driven testing with fbp-spec</h1><p>Automated testing is a key part of software development toolkit and practice. fbp-spec is a testing framework especially designed for Flow-based Programming(FBP)/dataflow programming, which can be used with any FBP runtime. For imperative or object-oriented Read More ...</p><img src="http://www.jonnor.com/wp/files/fbpspec-fixture-imageprocessing.png"></article>]]></description>
-            <link>http://www.jonnor.com/2017/02/data-driven-testing-with-fbp-spec/</link>
-            <guid isPermaLink="false">9c51352a-09d5-4ada-b9ad-f06434a5323f</guid>
-            <pubDate>Mon, 20 Feb 2017 20:52:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
