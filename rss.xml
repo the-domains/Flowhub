@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Mar 2017 15:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2017 16:24:04 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Mar 2017 15:54:20 GMT</pubDate>
+        <pubDate>Mon, 20 Mar 2017 16:24:02 GMT</pubDate>
+        <item>
+            <title><![CDATA[GuvScale - Autoscaling for Heroku worker dynos]]></title>
+            <description><![CDATA[<article><h1>GuvScale - Autoscaling for Heroku worker dynos</h1><p>I&apos;m happy to announce that GuvScale - our service for autoscaling Heroku background worker dynos - is now available in a public beta. If you&apos;re using RabbitMQ for distributing work to background dynos hosted by Heroku, GuvScale can monitor the queues for you and scale the number of workers up and down automatically.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/guvscale-graph.jpg"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/guvscale-heroku-autoscaling/</link>
+            <guid isPermaLink="false">87188b4c-a9bf-444c-b378-e46ea3dd2a24</guid>
+            <pubDate>Mon, 20 Mar 2017 16:23:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eclipse Hono and Flowhub at BCX17]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FziQmFjXYE3c%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DziQmFjXYE3c&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FziQmFjXYE3c%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>http://bergie.iki.fi/blog/noflo-webpack/?_utm_source=1-2-2</link>
             <guid isPermaLink="false">4edbe128-3ee3-4df5-889b-8ad2c052a52c</guid>
             <pubDate>Fri, 24 Feb 2017 18:19:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>We have revoked all Flowhub login sessions as a precaution after a recent @Cloudflare bug. Users can relogin at http://app.flowhub.io</blockquote>]]></description>
-            <link>https://twitter.com/Flowhub_io/status/835044016999788544</link>
-            <guid isPermaLink="false">1abacdfa-739c-4efc-ad85-8d3e330b8bb3</guid>
-            <pubDate>Fri, 24 Feb 2017 09:19:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
