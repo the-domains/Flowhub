@@ -4,9 +4,18 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Mar 2017 16:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2017 18:39:39 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Mar 2017 16:24:02 GMT</pubDate>
+        <pubDate>Tue, 21 Mar 2017 18:39:35 GMT</pubDate>
+        <item>
+            <title><![CDATA[Introducing Flowhub UG - the Flow-Based Programming company]]></title>
+            <description><![CDATA[<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/393e718c-6990-416d-8c45-47285042e665.png"><h1>Introducing Flowhub UG - the Flow-Based Programming company</h1><p>We&apos;re pleased to announce that Flowhub - the product made possible by this Kickstarter project - has now its own company dedicated to supporting and improving the visual programming environment.
+
+Last fall we bought the Flowhub and other flow-based programming assets from The Grid, and now after some paperwork we&apos;re up and running as Flowhub UG, a company registered in Berlin, Germany.</p></article>]]></description>
+            <link>https://www.linkedin.com/feed/update/urn:li:activity:6250019173146075136/</link>
+            <guid isPermaLink="false">ae224f17-f363-40f1-b208-240b8c45744f</guid>
+            <pubDate>Tue, 21 Mar 2017 18:39:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GuvScale - Autoscaling for Heroku worker dynos]]></title>
             <description><![CDATA[<article><h1>GuvScale - Autoscaling for Heroku worker dynos</h1><p>I&apos;m happy to announce that GuvScale - our service for autoscaling Heroku background worker dynos - is now available in a public beta. If you&apos;re using RabbitMQ for distributing work to background dynos hosted by Heroku, GuvScale can monitor the queues for you and scale the number of workers up and down automatically.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/guvscale-graph.jpg"></article>]]></description>
@@ -69,13 +78,6 @@
             <link>http://www.jonnor.com/2017/03/host-based-simulation-for-embedded-systems/</link>
             <guid isPermaLink="false">15fa8dd0-2bfe-424b-b748-2106cd57e0fc</guid>
             <pubDate>Thu, 02 Mar 2017 08:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building NoFlo browser applications with webpack]]></title>
-            <description><![CDATA[<article><h1>Building NoFlo browser applications with webpack</h1><p>I was looking at some of the Stack Overflow noflo questions yesterday, and there were a few related to building NoFlo for the browser. This made me realize we haven&apos;t really talked about the major change we made to browser builds recently: webpack.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/noflo-browser-app-webrtc.png"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/noflo-webpack/?_utm_source=1-2-2</link>
-            <guid isPermaLink="false">4edbe128-3ee3-4df5-889b-8ad2c052a52c</guid>
-            <pubDate>Fri, 24 Feb 2017 18:19:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
