@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Mar 2017 18:39:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2017 13:49:44 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Mar 2017 18:39:35 GMT</pubDate>
+        <pubDate>Thu, 23 Mar 2017 13:49:39 GMT</pubDate>
+        <item>
+            <title><![CDATA[How Eclipse Hono enables device-related communication for the IoT]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FU0Drr9465vg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU0Drr9465vg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FU0Drr9465vg%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/U0Drr9465vg</link>
+            <guid isPermaLink="false">b0aa5d66-f627-4722-9133-b68271c98a26</guid>
+            <pubDate>Thu, 23 Mar 2017 13:49:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introducing Flowhub UG - the Flow-Based Programming company]]></title>
             <description><![CDATA[<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/393e718c-6990-416d-8c45-47285042e665.png"><h1>Introducing Flowhub UG - the Flow-Based Programming company</h1><p>We&apos;re pleased to announce that Flowhub - the product made possible by this Kickstarter project - has now its own company dedicated to supporting and improving the visual programming environment.
@@ -71,13 +78,6 @@ Last fall we bought the Flowhub and other flow-based programming assets from The
             <link>http://bergie.iki.fi/blog/noflo-0-8/</link>
             <guid isPermaLink="false">ec6cc309-d614-42ac-aa80-4e665c6f4713</guid>
             <pubDate>Fri, 03 Mar 2017 09:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Host-based simulation for embedded systems]]></title>
-            <description><![CDATA[<article><h1>Host-based simulation for embedded systems</h1><p>Embedded systems and microcontroller programs can be really hard to understand. Here are some techniques that can help. An embedded system is a computer system with a dedicated function within a larger mechanical or electrical system ...</p><img src="http://www.jonnor.com/wp/files/finger-versul-palm-highpassed.png"></article>]]></description>
-            <link>http://www.jonnor.com/2017/03/host-based-simulation-for-embedded-systems/</link>
-            <guid isPermaLink="false">15fa8dd0-2bfe-424b-b748-2106cd57e0fc</guid>
-            <pubDate>Thu, 02 Mar 2017 08:51:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
