@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 13 Apr 2017 15:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2017 09:40:09 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Apr 2017 15:43:16 GMT</pubDate>
+        <pubDate>Wed, 19 Apr 2017 09:39:54 GMT</pubDate>
+        <item>
+            <title><![CDATA[Flow-Based Programming for JavaScript - Henri Berguis @ BWS'17]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJ4cMx1uBFu0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJ4cMx1uBFu0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJ4cMx1uBFu0%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/J4cMx1uBFu0</link>
+            <guid isPermaLink="false">35c7f43d-340c-4c8d-93ae-84b8f94a2afc</guid>
+            <pubDate>Wed, 19 Apr 2017 09:38:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Forget about HTTP when building microservices]]></title>
             <description><![CDATA[<article><h1>Forget about HTTP when building microservices</h1><p>Microservices - an architectural pattern we recommended in our 2012 International PHP Conference keynote - is pretty popular these days.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/guvscale-graph.jpg"></article>]]></description>
@@ -71,13 +78,6 @@ Last fall we bought the Flowhub and other flow-based programming assets from The
             <link>http://blog.kodigy.com/post/noflo_08_npm_shrinkwrap/</link>
             <guid isPermaLink="false">47637ac1-7ff1-4212-b6bc-dcc43ba72894</guid>
             <pubDate>Mon, 13 Mar 2017 18:21:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[asCallback: embedding NoFlo graphs in JavaScript programs]]></title>
-            <description><![CDATA[<article><h1>asCallback: embedding NoFlo graphs in JavaScript programs</h1><p>It has always been easy to wrap existing JavaScript code into NoFlo graphs - just write a component that exposes its functionality via some ports. Going the other way and exposing a NoFlo graph to JS land was also possible but cumbersome. With NoFlo 0.8.3 we now made it super easy with the new asCallback API.</p></article>]]></description>
-            <link>http://bergie.iki.fi/blog/ascallback/</link>
-            <guid isPermaLink="false">a8c39dcd-490f-40f1-8e61-4d8e482531b5</guid>
-            <pubDate>Fri, 10 Mar 2017 14:43:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
