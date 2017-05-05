@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 19 Apr 2017 09:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2017 15:03:23 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Apr 2017 09:39:54 GMT</pubDate>
+        <pubDate>Fri, 05 May 2017 15:03:21 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfe9d2eb-b1f7-4a59-be84-772ca8572bb0.png">,<blockquote>Electricity consumption of @cbase seen live in @Flowhub_io, powered by MsgFlo #IoT</blockquote>]]></description>
+            <link>https://twitter.com/bergie/status/860503888776003586</link>
+            <guid isPermaLink="false">5a064015-151f-45e9-ae48-2ce25d0aef60</guid>
+            <pubDate>Fri, 05 May 2017 15:03:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flow-Based Programming for JavaScript - Henri Berguis @ BWS'17]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJ4cMx1uBFu0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJ4cMx1uBFu0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJ4cMx1uBFu0%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -71,13 +78,6 @@ Last fall we bought the Flowhub and other flow-based programming assets from The
             <link>http://bergie.iki.fi/blog/bosch-iot-msgflo/</link>
             <guid isPermaLink="false">a180f0e4-84a4-4a70-9802-c245d8b240ca</guid>
             <pubDate>Thu, 16 Mar 2017 12:12:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forcing a specific NoFlo version for all dependencies]]></title>
-            <description><![CDATA[<article><h1>Forcing a specific NoFlo version for all dependencies</h1><p>Using NPM Shrinkwrap to enforce the same version of NoFlo for all dependencies to fix backwards compatibility issues</p></article>]]></description>
-            <link>http://blog.kodigy.com/post/noflo_08_npm_shrinkwrap/</link>
-            <guid isPermaLink="false">47637ac1-7ff1-4212-b6bc-dcc43ba72894</guid>
-            <pubDate>Mon, 13 Mar 2017 18:21:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
