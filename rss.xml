@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 May 2017 15:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2017 16:29:18 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 May 2017 15:03:21 GMT</pubDate>
+        <pubDate>Sun, 07 May 2017 16:28:54 GMT</pubDate>
+        <item>
+            <title><![CDATA[Rewiring a space station with Flowhub]]></title>
+            <description><![CDATA[<img alt="Rewiring a space station with Flowhub" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18298400_538730449635282_3949685078254157824_n.jpg">]]></description>
+            <link>https://www.instagram.com/p/BTzDxX2lfPe/</link>
+            <guid isPermaLink="false">5ae53bfe-6f43-46df-8629-bc138ef398b7</guid>
+            <pubDate>Sun, 07 May 2017 16:28:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfe9d2eb-b1f7-4a59-be84-772ca8572bb0.png">,<blockquote>Electricity consumption of @cbase seen live in @Flowhub_io, powered by MsgFlo #IoT</blockquote>]]></description>
@@ -71,13 +78,6 @@ Last fall we bought the Flowhub and other flow-based programming assets from The
             <link>https://twitter.com/Flowhub_io/status/842476310656086021</link>
             <guid isPermaLink="false">005a0952-24aa-4b2b-b815-7769899526df</guid>
             <pubDate>Fri, 17 Mar 2017 09:36:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bosch Connected Experience: Eclipse Hono and MsgFlo]]></title>
-            <description><![CDATA[<article><h1>Bosch Connected Experience: Eclipse Hono and MsgFlo</h1><p>I&apos;ve been attending the Bosch Connected Experience IoT hackathon this week at Station Berlin. Bosch brought a lot of different devices to the event, all connected to send telemetry to Eclipse Hono. To make them more discoverable, and enable rapid prototyping I decided to expose them all to Flowhub via the MsgFlo distributed FBP runtime.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/bcx17-open-hack.jpg"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/bosch-iot-msgflo/</link>
-            <guid isPermaLink="false">a180f0e4-84a4-4a70-9802-c245d8b240ca</guid>
-            <pubDate>Thu, 16 Mar 2017 12:12:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
