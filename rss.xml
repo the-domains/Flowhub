@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 May 2017 16:29:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2017 15:52:33 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 07 May 2017 16:28:54 GMT</pubDate>
+        <pubDate>Mon, 08 May 2017 15:52:29 GMT</pubDate>
+        <item>
+            <title><![CDATA[Edit as project and Flowhub live mode]]></title>
+            <description><![CDATA[<article><h1>Edit as project and Flowhub live mode</h1><p>In Flowhub you can create and edit full flow-based programming projects. The live mode enables introspecting running FBP systems. This weekend we rolled out Flowhub 0.19 which makes it easy to move between these modes. Flowhub&apos;s live mode is designed for making software introspectable - flow-based systems provide access to the graph and network state information, and tools like Flowhub then visualize it.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/cflo-edit-as-project.png"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/edit-as-project/</link>
+            <guid isPermaLink="false">3dbc1f24-075d-409b-a213-49a0b864d1b5</guid>
+            <pubDate>Mon, 08 May 2017 15:52:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rewiring a space station with Flowhub]]></title>
             <description><![CDATA[<img alt="Rewiring a space station with Flowhub" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18298400_538730449635282_3949685078254157824_n.jpg">]]></description>
@@ -71,13 +78,6 @@ Last fall we bought the Flowhub and other flow-based programming assets from The
             <link>https://youtu.be/ziQmFjXYE3c</link>
             <guid isPermaLink="false">c7b19a0b-caed-4745-94cc-41e25070248f</guid>
             <pubDate>Fri, 17 Mar 2017 15:54:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>Flowhub won the award for technical brilliance at #BCX17 Open Hack Challenge. Congrats also to the overall hackathon winners!</blockquote>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de23723a-edef-408d-b95f-54e7cddccea8.jpg">]]></description>
-            <link>https://twitter.com/Flowhub_io/status/842476310656086021</link>
-            <guid isPermaLink="false">005a0952-24aa-4b2b-b815-7769899526df</guid>
-            <pubDate>Fri, 17 Mar 2017 09:36:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
