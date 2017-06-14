@@ -4,9 +4,65 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 May 2017 15:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2017 15:13:04 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 08 May 2017 15:52:29 GMT</pubDate>
+        <pubDate>Wed, 14 Jun 2017 15:11:23 GMT</pubDate>
+        <item>
+            <title><![CDATA[Electrocute]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f9ece1a2bb921666a6c21c91d7177d57/noop.png?input=https%3A%2F%2Fchallengepost-s3-challengepost.netdna-ssl.com%2Fphotos%2Fproduction%2Fsoftware_thumbnail_photos%2F000%2F514%2F976%2Fdatas%2Fmedium.png"><h1>Electrocute</h1><p>Electrocute - Power consumption forecasts for a changing climate</p></article>,<blockquote>See how Flowhub&apos;s MsgFlo was used to connect a Node.js service to Python ML backend in this @Predix hackathon entry</blockquote>]]></description>
+            <link>https://devpost.com/software/electrocute-a9guqr</link>
+            <guid isPermaLink="false">8af8fd85-aaef-451d-b57f-27781ac0b2c1</guid>
+            <pubDate>Wed, 14 Jun 2017 15:11:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reprogramming the hackerspace: MsgFlo IoT workshops at c-base and Bitraf]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/42c7c94cb0d0a2e824ffb6172f26466c/noop.png?input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Fdetect-abba.png"><h1>Reprogramming the hackerspace: MsgFlo IoT workshops at c-base and Bitraf</h1><p>This July we&apos;re organizing two hack weekends around MsgFlo and Flowhub. Both of these will focus on reprogramming the Internet of Things setup of the hackerspace. The aim is to connect more devices at the spaces to the MsgFlo environment, and come up with new connections between systems, and ways to visualize them.</p></article>]]></description>
+            <link>http://bergie.iki.fi/blog/msgflo-workshops-cbase-bitraf/</link>
+            <guid isPermaLink="false">5c6162da-b54d-421f-9472-cf28846ab60a</guid>
+            <pubDate>Wed, 07 Jun 2017 17:02:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NoFlo and Flow-Based Programming by Henri Bergius (Node.js Meetup Berlin)]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fx_nhh3yg-Cs%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx_nhh3yg-Cs&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fx_nhh3yg-Cs%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/x_nhh3yg-Cs</link>
+            <guid isPermaLink="false">078858b2-c6a8-423c-914d-7fb8b0ee3b90</guid>
+            <pubDate>Mon, 05 Jun 2017 11:29:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NoFlo: six years of JavaScript dataflow]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/aee2f024f3d7c0835dc1cd00c6cb47fe/noop.png?input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Fstation-announcer.png"><h1>NoFlo: six years of JavaScript dataflow</h1><p>Quite a bit of time has passed since my two years of NoFlo post, and it is time to take another look at the state of the NoFlo ecosystem. To start with the basics, NoFlo is a JavaScript implementation of Flow-Based Programming.</p></article>]]></description>
+            <link>http://bergie.iki.fi/blog/noflo-six-years/</link>
+            <guid isPermaLink="false">5adf7a9a-10eb-4f7e-be88-d8b966dd6d5d</guid>
+            <pubDate>Mon, 05 Jun 2017 10:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handling resource-intensive tasks with work queues in RabbitMQ]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7e0758a01658f065624ed2a933ca09dd/noop.jpg?input=https%3A%2F%2Fwww.cloudamqp.com%2Fimg%2Fblog%2Fsm-work-queue.jpg"><h1>Handling resource-intensive tasks with work queues in RabbitMQ</h1><p>All computationally intensive work at The Grid; such as image analysing, and image processing are off-loaded as jobs in RabbitMQ. Instead of having a web server waiting for a result immediately, it is free to keep processing other requests. All jobs that are added to the queue are consumed by Heroku workers running with MsgFlo.</p></article>]]></description>
+            <link>https://www.cloudamqp.com/blog/2017-05-31-work-queues-in-rabbitmq-for-resource-intensive-tasks.html</link>
+            <guid isPermaLink="false">87a97351-e703-45f9-a4b7-c6d374a17f71</guid>
+            <pubDate>Thu, 01 Jun 2017 07:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Demoed the @cbase @Flowhub_io IoT setup at @BerlinHacknTell https://t.co/jnOBa79iLN (photo by @c_v_e_n)</blockquote>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebffadf5-1947-45a8-8e38-c150afc19fe3.jpg">]]></description>
+            <link>https://twitter.com/bergie/status/869614270761381889</link>
+            <guid isPermaLink="false">eca511fc-a2d4-4218-b88b-710fbc69fb87</guid>
+            <pubDate>Tue, 30 May 2017 18:27:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rewire your Internet of Things with Flowhub]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e7dea292156ed14c8ced86bcbf533fce/noop.png?input=https%3A%2F%2Fflowhub.io%2Fassets%2Fc-flo-lights.png"><h1>Rewire your Internet of Things with Flowhub</h1><p>Flowhub is a visual tool for managing how your Internet of Things devices connect with each other. With Flowhub you can manage the connections between all of your IoT devices, and add logic via new components.</p></article>]]></description>
+            <link>https://flowhub.io/iot/</link>
+            <guid isPermaLink="false">34bd5fb5-22aa-41b6-8df8-c2c2587bba45</guid>
+            <pubDate>Tue, 30 May 2017 15:07:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Flowhub Pro plans are now available with a monthly subscription. Go to https://t.co/o7Ta0WSC72 to enable Flowhub access to private projects!</blockquote>]]></description>
+            <link>https://twitter.com/Flowhub_io/status/865152847289176065</link>
+            <guid isPermaLink="false">814616df-3cbc-4bb6-b77d-06c6495fe9ac</guid>
+            <pubDate>Thu, 18 May 2017 11:02:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Edit as project and Flowhub live mode]]></title>
             <description><![CDATA[<article><h1>Edit as project and Flowhub live mode</h1><p>In Flowhub you can create and edit full flow-based programming projects. The live mode enables introspecting running FBP systems. This weekend we rolled out Flowhub 0.19 which makes it easy to move between these modes. Flowhub&apos;s live mode is designed for making software introspectable - flow-based systems provide access to the graph and network state information, and tools like Flowhub then visualize it.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/cflo-edit-as-project.png"></article>]]></description>
@@ -20,64 +76,6 @@
             <link>https://www.instagram.com/p/BTzDxX2lfPe/</link>
             <guid isPermaLink="false">5ae53bfe-6f43-46df-8629-bc138ef398b7</guid>
             <pubDate>Sun, 07 May 2017 16:28:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfe9d2eb-b1f7-4a59-be84-772ca8572bb0.png">,<blockquote>Electricity consumption of @cbase seen live in @Flowhub_io, powered by MsgFlo #IoT</blockquote>]]></description>
-            <link>https://twitter.com/bergie/status/860503888776003586</link>
-            <guid isPermaLink="false">5a064015-151f-45e9-ae48-2ce25d0aef60</guid>
-            <pubDate>Fri, 05 May 2017 15:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flow-Based Programming for JavaScript - Henri Berguis @ BWS'17]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJ4cMx1uBFu0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJ4cMx1uBFu0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJ4cMx1uBFu0%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/J4cMx1uBFu0</link>
-            <guid isPermaLink="false">35c7f43d-340c-4c8d-93ae-84b8f94a2afc</guid>
-            <pubDate>Wed, 19 Apr 2017 09:38:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forget about HTTP when building microservices]]></title>
-            <description><![CDATA[<article><h1>Forget about HTTP when building microservices</h1><p>Microservices - an architectural pattern we recommended in our 2012 International PHP Conference keynote - is pretty popular these days.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/guvscale-graph.jpg"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/forget-http-microservices/</link>
-            <guid isPermaLink="false">18a0fba3-106b-42cd-8cd1-b893eb3f2560</guid>
-            <pubDate>Thu, 13 Apr 2017 15:42:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>Interested in #devops in #Barcelona? Come to Orchestrate! I will be talking about message queues and autoscaling using MsgFlo and @GuvScale https://t.co/nOcH630qCH</blockquote>]]></description>
-            <link>https://twitter.com/jononor/status/846680966827556867</link>
-            <guid isPermaLink="false">8163bd90-6327-45f4-950b-fc4cb5a7567c</guid>
-            <pubDate>Tue, 28 Mar 2017 15:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Eclipse Hono enables device-related communication for the IoT]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FU0Drr9465vg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU0Drr9465vg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FU0Drr9465vg%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/U0Drr9465vg</link>
-            <guid isPermaLink="false">b0aa5d66-f627-4722-9133-b68271c98a26</guid>
-            <pubDate>Thu, 23 Mar 2017 13:49:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Introducing Flowhub UG - the Flow-Based Programming company]]></title>
-            <description><![CDATA[<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/393e718c-6990-416d-8c45-47285042e665.png"><h1>Introducing Flowhub UG - the Flow-Based Programming company</h1><p>We&apos;re pleased to announce that Flowhub - the product made possible by this Kickstarter project - has now its own company dedicated to supporting and improving the visual programming environment.
-
-Last fall we bought the Flowhub and other flow-based programming assets from The Grid, and now after some paperwork we&apos;re up and running as Flowhub UG, a company registered in Berlin, Germany.</p></article>]]></description>
-            <link>https://www.linkedin.com/feed/update/urn:li:activity:6250019173146075136/</link>
-            <guid isPermaLink="false">ae224f17-f363-40f1-b208-240b8c45744f</guid>
-            <pubDate>Tue, 21 Mar 2017 18:39:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GuvScale - Autoscaling for Heroku worker dynos]]></title>
-            <description><![CDATA[<article><h1>GuvScale - Autoscaling for Heroku worker dynos</h1><p>I&apos;m happy to announce that GuvScale - our service for autoscaling Heroku background worker dynos - is now available in a public beta. If you&apos;re using RabbitMQ for distributing work to background dynos hosted by Heroku, GuvScale can monitor the queues for you and scale the number of workers up and down automatically.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/guvscale-graph.jpg"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/guvscale-heroku-autoscaling/</link>
-            <guid isPermaLink="false">87188b4c-a9bf-444c-b378-e46ea3dd2a24</guid>
-            <pubDate>Mon, 20 Mar 2017 16:23:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eclipse Hono and Flowhub at BCX17]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FziQmFjXYE3c%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DziQmFjXYE3c&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FziQmFjXYE3c%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/ziQmFjXYE3c</link>
-            <guid isPermaLink="false">c7b19a0b-caed-4745-94cc-41e25070248f</guid>
-            <pubDate>Fri, 17 Mar 2017 15:54:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
