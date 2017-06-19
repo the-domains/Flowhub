@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Jun 2017 15:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2017 15:41:43 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Jun 2017 15:11:23 GMT</pubDate>
+        <pubDate>Mon, 19 Jun 2017 15:41:34 GMT</pubDate>
+        <item>
+            <title><![CDATA[Two hackathons in a week: thoughts on NoFlo and MsgFlo]]></title>
+            <description><![CDATA[<article><h1>Two hackathons in a week: thoughts on NoFlo and MsgFlo</h1><p>Last week I participated in two hackathons, events where a group of strangers would form a team for two or three days and build a product prototype. In the end all teams pitch their prototypes, and the best ones would be given some prizes.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/recoding_aviation_winners.jpg"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/msgflo-noflo-in-hackathons/</link>
+            <guid isPermaLink="false">fcd91acf-67ed-48ae-a21d-551ca1da9a73</guid>
+            <pubDate>Mon, 19 Jun 2017 15:41:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Electrocute]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f9ece1a2bb921666a6c21c91d7177d57/noop.png?input=https%3A%2F%2Fchallengepost-s3-challengepost.netdna-ssl.com%2Fphotos%2Fproduction%2Fsoftware_thumbnail_photos%2F000%2F514%2F976%2Fdatas%2Fmedium.png"><h1>Electrocute</h1><p>Electrocute - Power consumption forecasts for a changing climate</p></article>,<blockquote>See how Flowhub&apos;s MsgFlo was used to connect a Node.js service to Python ML backend in this @Predix hackathon entry</blockquote>]]></description>
@@ -69,13 +76,6 @@
             <link>http://bergie.iki.fi/blog/edit-as-project/</link>
             <guid isPermaLink="false">3dbc1f24-075d-409b-a213-49a0b864d1b5</guid>
             <pubDate>Mon, 08 May 2017 15:52:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rewiring a space station with Flowhub]]></title>
-            <description><![CDATA[<img alt="Rewiring a space station with Flowhub" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18298400_538730449635282_3949685078254157824_n.jpg">]]></description>
-            <link>https://www.instagram.com/p/BTzDxX2lfPe/</link>
-            <guid isPermaLink="false">5ae53bfe-6f43-46df-8629-bc138ef398b7</guid>
-            <pubDate>Sun, 07 May 2017 16:28:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
