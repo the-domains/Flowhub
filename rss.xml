@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Jun 2017 15:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2017 15:01:50 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Jun 2017 15:41:34 GMT</pubDate>
+        <pubDate>Tue, 04 Jul 2017 15:01:33 GMT</pubDate>
+        <item>
+            <title><![CDATA[Flowhub IoT workshop at Bitraf: sensors, access control, and more]]></title>
+            <description><![CDATA[<article><h1>Flowhub IoT workshop at Bitraf: sensors, access control, and more</h1><p>I just got back to Berlin from the Bitraf IoT hackathon we organized in Oslo, Norway. This hackathon was the first of two IoT workshops around MsgFlo and Flowhub IoT. The second will be held at c-base in Berlin this coming weekend.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/bitraf-button.jpg"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/flowhub-iot-workshop-bitraf/</link>
+            <guid isPermaLink="false">4487bfaa-222a-4ae0-a93e-e992ffa8de44</guid>
+            <pubDate>Tue, 04 Jul 2017 15:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Two hackathons in a week: thoughts on NoFlo and MsgFlo]]></title>
             <description><![CDATA[<article><h1>Two hackathons in a week: thoughts on NoFlo and MsgFlo</h1><p>Last week I participated in two hackathons, events where a group of strangers would form a team for two or three days and build a product prototype. In the end all teams pitch their prototypes, and the best ones would be given some prizes.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/recoding_aviation_winners.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/Flowhub_io/status/865152847289176065</link>
             <guid isPermaLink="false">814616df-3cbc-4bb6-b77d-06c6495fe9ac</guid>
             <pubDate>Thu, 18 May 2017 11:02:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Edit as project and Flowhub live mode]]></title>
-            <description><![CDATA[<article><h1>Edit as project and Flowhub live mode</h1><p>In Flowhub you can create and edit full flow-based programming projects. The live mode enables introspecting running FBP systems. This weekend we rolled out Flowhub 0.19 which makes it easy to move between these modes. Flowhub&apos;s live mode is designed for making software introspectable - flow-based systems provide access to the graph and network state information, and tools like Flowhub then visualize it.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/cflo-edit-as-project.png"></article>]]></description>
-            <link>http://bergie.iki.fi/blog/edit-as-project/</link>
-            <guid isPermaLink="false">3dbc1f24-075d-409b-a213-49a0b864d1b5</guid>
-            <pubDate>Mon, 08 May 2017 15:52:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
