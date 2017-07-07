@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 04 Jul 2017 15:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2017 14:53:44 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Jul 2017 15:01:33 GMT</pubDate>
+        <pubDate>Fri, 07 Jul 2017 14:53:22 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Telemetry from @cbase visualized on @NASA OpenMCT, ready for the @Flowhub_io #IoT hack weekend starting tonight</blockquote>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e15734e-68ff-494d-80b4-c64724aeddae.png">]]></description>
+            <link>https://twitter.com/bergie/status/883271511892733952</link>
+            <guid isPermaLink="false">282e2cc7-96a8-4557-8145-21ea9715c882</guid>
+            <pubDate>Fri, 07 Jul 2017 14:53:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flowhub IoT workshop at Bitraf: sensors, access control, and more]]></title>
             <description><![CDATA[<article><h1>Flowhub IoT workshop at Bitraf: sensors, access control, and more</h1><p>I just got back to Berlin from the Bitraf IoT hackathon we organized in Oslo, Norway. This hackathon was the first of two IoT workshops around MsgFlo and Flowhub IoT. The second will be held at c-base in Berlin this coming weekend.</p><img src="https://s3.eu-central-1.amazonaws.com/bergie-iki-fi/bitraf-button.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://flowhub.io/iot/</link>
             <guid isPermaLink="false">34bd5fb5-22aa-41b6-8df8-c2c2587bba45</guid>
             <pubDate>Tue, 30 May 2017 15:07:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>Flowhub Pro plans are now available with a monthly subscription. Go to https://t.co/o7Ta0WSC72 to enable Flowhub access to private projects!</blockquote>]]></description>
-            <link>https://twitter.com/Flowhub_io/status/865152847289176065</link>
-            <guid isPermaLink="false">814616df-3cbc-4bb6-b77d-06c6495fe9ac</guid>
-            <pubDate>Thu, 18 May 2017 11:02:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
