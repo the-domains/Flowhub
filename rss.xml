@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Sep 2017 10:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2017 16:55:55 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 Sep 2017 10:50:48 GMT</pubDate>
+        <pubDate>Wed, 04 Oct 2017 16:55:53 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Docker images of msgflo-project: easy start for flow-based programming with message queues: https://t.co/0jDQH2bTYK #IoT</blockquote>]]></description>
+            <link>https://twitter.com/bergie/status/915619229705089024</link>
+            <guid isPermaLink="false">d947947e-6d4f-4b5c-b64c-4af9d014cd74</guid>
+            <pubDate>Wed, 04 Oct 2017 16:55:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2017 Flow-Based Programming for JavaScript]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fpf6SytVR2KU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dpf6SytVR2KU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fpf6SytVR2KU%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/x_nhh3yg-Cs</link>
             <guid isPermaLink="false">078858b2-c6a8-423c-914d-7fb8b0ee3b90</guid>
             <pubDate>Mon, 05 Jun 2017 11:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NoFlo: six years of JavaScript dataflow]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/aee2f024f3d7c0835dc1cd00c6cb47fe/noop.png?input=https%3A%2F%2Fs3.eu-central-1.amazonaws.com%2Fbergie-iki-fi%2Fstation-announcer.png"><h1>NoFlo: six years of JavaScript dataflow</h1><p>Quite a bit of time has passed since my two years of NoFlo post, and it is time to take another look at the state of the NoFlo ecosystem. To start with the basics, NoFlo is a JavaScript implementation of Flow-Based Programming.</p></article>]]></description>
-            <link>http://bergie.iki.fi/blog/noflo-six-years/</link>
-            <guid isPermaLink="false">5adf7a9a-10eb-4f7e-be88-d8b966dd6d5d</guid>
-            <pubDate>Mon, 05 Jun 2017 10:58:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
