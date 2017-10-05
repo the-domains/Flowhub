@@ -4,9 +4,16 @@
         <description><![CDATA[Flowhub Blog]]></description>
         <link>http://blog.flowhub.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Oct 2017 16:55:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2017 08:56:34 GMT</lastBuildDate>
         <atom:link href="http://blog.flowhub.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Oct 2017 16:55:53 GMT</pubDate>
+        <pubDate>Thu, 05 Oct 2017 08:56:10 GMT</pubDate>
+        <item>
+            <title><![CDATA[Building an IoT dashboard with NASA Open MCT]]></title>
+            <description><![CDATA[<article><h1>Building an IoT dashboard with NASA Open MCT</h1><p>One important aspect of any Internet of Things setup is being able to collect and visualize data for analysis. Seeing trends in sensor readings over time can be useful for identifying problems, and for coming up with new ways to use the data.</p><img src="https://d2vqpl3tx84ay5.cloudfront.net/c-base-iot-openmct.png"></article>]]></description>
+            <link>http://bergie.iki.fi/blog/nasa-openmct-iot-dashboard/</link>
+            <guid isPermaLink="false">0cb079ee-8637-4b0e-abe5-dbe553787f1e</guid>
+            <pubDate>Thu, 05 Oct 2017 08:56:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>Docker images of msgflo-project: easy start for flow-based programming with message queues: https://t.co/0jDQH2bTYK #IoT</blockquote>]]></description>
@@ -69,13 +76,6 @@
             <link>http://bergie.iki.fi/blog/msgflo-workshops-cbase-bitraf/</link>
             <guid isPermaLink="false">5c6162da-b54d-421f-9472-cf28846ab60a</guid>
             <pubDate>Wed, 07 Jun 2017 17:02:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NoFlo and Flow-Based Programming by Henri Bergius (Node.js Meetup Berlin)]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fx_nhh3yg-Cs%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx_nhh3yg-Cs&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fx_nhh3yg-Cs%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/x_nhh3yg-Cs</link>
-            <guid isPermaLink="false">078858b2-c6a8-423c-914d-7fb8b0ee3b90</guid>
-            <pubDate>Mon, 05 Jun 2017 11:29:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
